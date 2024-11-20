@@ -1,8 +1,8 @@
 import json
 import csv
 
-input_file = 'remaining_articles.json'
-output_file = 'articles.csv'
+input_file = 'open_coding.json'
+output_file = 'open_coding_articles.csv'
 
 with open(input_file, 'r') as file:
     articles = json.load(file)
