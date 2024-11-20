@@ -4,78 +4,117 @@
             "id": null,
             "name": "BBC News"
         },
-        "author": null,
-        "title": "\u2018Welcome back\u2019 - Watch moment Biden congratulates Trump",
-        "description": "The president and president-elect shook hands as part of a long-standing tradition signifying the transfer of power.",
-        "url": "https://www.bbc.com/news/videos/c8ek95kw8w4o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bdf1/live/e6185260-a1de-11ef-a4fe-a3e9a6c5d640.jpg",
-        "publishedAt": "2024-11-13T16:32:08Z",
-        "content": "US President Joe Biden and President-elect Donald Trump have met at the White House. \r\nBiden invited Trump to meet with him as part of a long-standing tradition signifying the transfer of power as th\u2026 [+272 chars]"
+        "author": "BBC Sport",
+        "title": "Wilson hammers Trump to win Northern Ireland Open",
+        "description": "Kyren Wilson claims his first Northern Ireland Open title by beating world number one Judd Trump 9-3 at the Waterfront Hall in Belfast.",
+        "url": "https://www.bbc.com/sport/snooker/articles/cx244x74z22o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/2ce5/live/8126f270-94a6-11ef-aa9f-a7186716722a.jpg",
+        "publishedAt": "2024-10-27T21:22:51Z",
+        "content": "Kyren Wilson claimed his first Northern Ireland Open title by beating world number one Judd Trump 9-3 in Belfast.\r\nThe reigning world champion got off to a blistering start at the Waterfront Hall as \u2026 [+1106 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": null,
-        "title": "Who is Trump intelligence pick Tulsi Gabbard, accused of repeating Russian talking points?",
-        "description": "The former Democratic congresswoman has emerged as one of Trump's most loyal backers.",
-        "url": "https://www.bbc.com/news/articles/c9vnx8zn440o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b459/live/acba4070-a277-11ef-aa19-39e0adebaf4e.png",
-        "publishedAt": "2024-11-14T15:39:01Z",
-        "content": "Tulsi Gabbard - a former Democratic congresswoman who joined the Republican Party to back Donald Trump - is the president-elect's pick for director of national intelligence. \r\nThe wide-ranging role w\u2026 [+4083 chars]"
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Michigan 2024 Trump-Harris Polls: Trump Erases Harris\u2019 Lead",
+        "description": "Biden flipped Michigan in the 2020 election.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/29/michigan-2024-trump-harris-polls-trump-erases-harris-lead/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6706ea9a9f01343dfb437475/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T12:09:54Z",
+        "content": "Former President Donald Trump leads Vice President Kamala Harris by one point in the latest Emerson poll released Tuesday, within the margin of errorthe groups first since Harris launched her campaig\u2026 [+6715 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "SFGate"
+        },
+        "author": "SYLVIE CORBET",
+        "title": "Fitness app gives away location of Biden, Trump, world leaders...",
+        "description": "Fitness app gives away location of Biden, Trump, world leaders...\r\n\n \n \n \n (Third column, 1st story, link)",
+        "url": "https://www.sfgate.com/news/world/article/fitness-app-strava-gives-away-location-of-biden-19868680.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/45/01/37/26482625/3/rawImage.jpg",
+        "publishedAt": "2024-10-28T20:19:37Z",
+        "content": "FILE - U.S. President Donald Trump yells to reporters after arriving at Andrews Air Force Base after a summit with North Korean leader Kim Jong Un in Singapore, Wednesday, June 13, 2018, in Andrews A\u2026 [+5600 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Bryan Metzger",
-        "title": "Trump nominates Matt Gaetz for Attorney General",
-        "description": "In a post on Truth Social, Trump said that Gaetz would \"root out the systemic corruption\" at the Department of Justice.",
-        "url": "https://www.businessinsider.com/trump-nominates-matt-gaetz-attorney-general-2024-11",
-        "urlToImage": "https://i.insider.com/67350dd3fa0140cdd56332b8?width=1200&format=jpeg",
-        "publishedAt": "2024-11-13T20:59:18Z",
-        "content": "Trump announced on Wednesday that he would nominated Rep. Matt Gaetz of Florida to serve as United States Attorney General.Tom Williams/CQ Roll Call\r\n<ul><li>Trump said on Wednesday that he will nomi\u2026 [+1846 chars]"
+        "author": "ggoodwin@businessinsider.com (Grace Eliza Goodwin,John L. Dorman)",
+        "title": "Biden's 'garbage' comment is a gift to Trump",
+        "description": "The ex-president seized on a verbal gaffe from Biden as he continues to rally his supporters against Harris' 2024 candidacy.",
+        "url": "https://www.businessinsider.com/trump-biden-maga-supporters-puerto-rico-election-2024-10",
+        "urlToImage": "https://i.insider.com/67226a3a9b3250dbbceb2cae?width=1200&format=jpeg",
+        "publishedAt": "2024-10-30T19:02:18Z",
+        "content": "After Vice President Kamala Harris' rise to the top of the Democratic ticket, former President Donald Trump has remained fixed on his former opponent, President Joe Biden.\r\nBut this week, Trump was h\u2026 [+3542 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Variety"
+        },
+        "author": "Todd Spangler",
+        "title": "Trump Media Is Now Worth More Than Elon Musk\u2019s X After Stock Rallies to New Highs",
+        "description": "Trump Media & Technology Group, which operates the Truth Social social-media network, has seen its stock soar in the weeks leading up to the Nov. 5 presidential election \u2014 and it is currently worth more than Elon Musk\u2019s X, the social-media company formerly kn\u2026",
+        "url": "https://variety.com/2024/digital/news/trump-media-djt-stock-value-elon-musk-x-1236192435/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2024/10/Trump-Musk-TMTG-DJT-stock.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2024-10-28T20:04:00Z",
+        "content": "Trump Media &amp; Technology Group, which operates the Truth Social social-media network, has seen its stock soar in the weeks leading up to the Nov. 5 presidential election \u2014 and it is currently wor\u2026 [+3615 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Molly Bohannon, Forbes Staff, \n Molly Bohannon, Forbes Staff\n https://www.forbes.com/sites/mollybohannon/",
+        "title": "Trump-Appointed Judge Will Not Recuse Herself From Trump Assassination Attempt Case",
+        "description": "Judge Aileen Cannon rejected Ryan Wesley Routh\u2019s request that she recuse herself from the case to \u201cpreserve the appearance of impartiality.\u201d",
+        "url": "https://www.forbes.com/sites/mollybohannon/2024/10/29/trump-appointed-judge-will-not-recuse-herself-from-trump-assassination-attempt-case/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672123f1cff1ee86bbf93254/0x0.jpg?format=jpg&crop=1567,882,x302,y269,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T18:06:40Z",
+        "content": "A Florida-based federal judge appointed by former President Donald Trump refused to recuse herself from the criminal case against a man who allegedly tried to assassinate the former president, saying\u2026 [+3813 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "North Carolina 2024 Trump-Harris Polls: Trump Up By 2 Points In 2 New Surveys",
+        "description": "Polls show Trump and Harris are in a virtual tie for North Carolina\u2019s 16 electoral college votes.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/30/north-carolina-2024-trump-harris-polls-trump-leads-by-2-points-in-new-survey/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67199405f7064b77b7f00646/0x0.jpg?format=jpg&crop=3736,2101,x0,y49,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-30T23:15:41Z",
+        "content": "Vice President Kamala Harris is vying to become only the second Democratic presidential candidate to win North Carolina in more than 40 years, with most polls showing her and former President Donald \u2026 [+4609 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Nevada 2024 Trump-Harris Polls: Trump Leads In Latest Survey\u2014As Harris Struggles With Latinos",
+        "description": "Nevada has voted for Democrats in every presidential election since 2008.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/29/nevada-2024-trump-harris-polls-trump-leads-in-latest-survey-as-harris-struggles-with-latinos/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672112b5f1591eb0f2505954/0x0.jpg?format=jpg&crop=3114,1752,x0,y323,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T16:51:45Z",
+        "content": "Former President Donald Trump and Vice President Kamala Harris are essentially tied in the latest survey of likely voters in the crucial swing state of Nevada, where an erosion of support among Latin\u2026 [+3745 chars]"
     },
     {
         "source": {
             "id": "business-insider",
             "name": "Business Insider"
         },
-        "author": "Jordan Hart",
-        "title": "Elon Musk's Trump bump keeps growing",
-        "description": "Elon Musk's businesses are thriving as his relationship to Trump boosts shares. xAI is raising $5 billion and SpaceX is planning a share tender offer.",
-        "url": "https://www.businessinsider.com/elon-musk-donald-trump-alliance-business-growth-tesla-spacex-2024-11",
-        "urlToImage": "https://i.insider.com/67376e8fede4eeae3927d984?width=1200&format=jpeg",
-        "publishedAt": "2024-11-15T18:20:32Z",
-        "content": "Elon Musk's Trump support is boosting business numbers.The Washington Post/The Washington Post via Getty Images\r\n<ul><li>Elon Musk's businesses are thriving from his relationship with Trump, boosting\u2026 [+1797 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Graham Rapier",
-        "title": "Why Musk supports Trump getting rid of EV tax credits",
-        "description": "Elon Musk has said ending tax credits of up to $7,500 for electric vehicle purchases would \"devastate\" Tesla's competitors.",
-        "url": "https://www.businessinsider.com/why-tesla-elon-musk-supports-trump-ending-ev-tax-credits-2024-11",
-        "urlToImage": "https://i.insider.com/6736641e192f52589858a6b3?width=1200&format=jpeg",
-        "publishedAt": "2024-11-14T22:28:05Z",
-        "content": "Tesla still has a commanding lead in the US EV market, but competition is slowly catching up.ANGELA WEISS / AFP\r\n<ul><li>Tesla stands to benefit from any removal of consumer tax credits on electric v\u2026 [+5025 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "pkafka@insider.com (Peter Kafka)",
-        "title": "Did you need another reminder that Donald Trump watches TV? Here you go.",
-        "description": "Twitter - and Elon Musk \u2014 are important for Trump 2.0. But Trump has always been a TV person and that's not going to change.",
-        "url": "https://www.businessinsider.com/pete-hegseth-trump-fox-twitter-elon-musk-influence-2024-11",
-        "urlToImage": "https://i.insider.com/6734e38a192f525898582dbc?width=1200&format=jpeg",
-        "publishedAt": "2024-11-13T17:49:21Z",
-        "content": "Earlier this week, I wondered how much Twitter was going to influence the next Trump administration and how much influence we'd see from TV, which was tremendously important the first time around.\r\nH\u2026 [+3102 chars]"
+        "author": "allisonkelly@businessinsider.com (Allie Kelly,John L. Dorman)",
+        "title": "How the cost of housing is expected to change under Trump or Harris",
+        "description": "BI looked at how Harris and Trump's housing policies will affect supply, first-time homebuyers, and renters.",
+        "url": "https://www.businessinsider.com/housing-affordability-supply-impact-presidential-election-scenarios-homebuyers-harris-trump-2024-10",
+        "urlToImage": "https://i.insider.com/671fea5501ea6d83dee49545?width=1200&format=jpeg",
+        "publishedAt": "2024-10-30T09:00:01Z",
+        "content": "Election Day is around the corner and some Americans are already casting their ballots in early voting. For many, affordable housing is a top concern.\r\nIn the third of Business Insider's five-part se\u2026 [+5514 chars]"
     },
     {
         "source": {
@@ -83,271 +122,401 @@
             "name": "Business Insider"
         },
         "author": "fdemott@insider.com (Filip De Mott)",
-        "title": "Dogecoin spikes another 15% after Musk appointed to lead DOGE department for Trump",
-        "description": "Dogecoin spiked again on Wednesday after Donald Trump appointed Elon Musk to help lead the Department of Government Efficiency, or DOGE.",
-        "url": "https://markets.businessinsider.com/news/currencies/dogecoin-price-elon-musk-doge-department-trump-crypto-president-election-2024-11",
-        "urlToImage": "https://i.insider.com/6734cc575ec9bfa3d63dce35?width=1024&format=jpeg",
-        "publishedAt": "2024-11-13T16:42:21Z",
-        "content": "Dogecoin has gotten a big boost since Donald Trump won the presidential election last week amid a market-wide surge for cryptos of all types.\r\nThe dog-themed crypto had surged roughly 140% since Nove\u2026 [+1451 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Rob Price",
-        "title": "Silicon Valley's swing toward Trump is real. Here's the data to prove it.",
-        "description": "California's San Francisco Bay Area is still solidly blue \u2014 but less than it used to be.",
-        "url": "https://www.businessinsider.com/silicon-valley-swing-toward-trump-voting-data-2024-11",
-        "urlToImage": "https://i.insider.com/6733b4a588cea3ba1c203ec2?width=1200&format=jpeg",
-        "publishedAt": "2024-11-12T20:26:33Z",
-        "content": "iStock; Rebecca Zisser/BI\r\n<ul><li>A notable portion of Silicon Valley's electorate has steadily shifted toward Donald Trump.</li><li>While the region remains solidly Democrat, the GOP candidate made\u2026 [+3553 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Alice Tecotzky",
-        "title": "Trump taps Robert F. Kennedy Jr. to lead Department of Health and Human Services",
-        "description": "Trump announced his nomination for Robert F. Kennedy Jr. to lead the Department of Health and Human Services. The position requires senate approval.",
-        "url": "https://www.businessinsider.com/trump-robert-f-kennedy-jr-rfk-department-health-human-services-2024-11",
-        "urlToImage": "https://i.insider.com/67366ad0ede4eeae3927b3ef?width=915&format=jpeg",
-        "publishedAt": "2024-11-14T21:39:08Z",
-        "content": "President-elect Donald Trump has nominated Robert F. Kennedy Jr. to lead the HHS.Tom Brenner for The Washington Post via Getty Images)\r\n<ul><li>Trump has nominated Robert F. Kennedy Jr to lead the De\u2026 [+1919 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Laura Italiano",
-        "title": "Proud Boys are seeking pardons directly from Trump, bypassing the DOJ and, potentially, Matt Gaetz",
-        "description": "The first Proud Boys to seek pardons are bypassing DOJ, which Matt Gaetz was tapped to lead.",
-        "url": "https://www.businessinsider.com/proud-boys-trump-grant-quicker-pardons-than-matt-gaetz-doj-2024-11",
-        "urlToImage": "https://i.insider.com/673661c0ede4eeae3927abb1?width=1200&format=jpeg",
-        "publishedAt": "2024-11-14T21:40:54Z",
-        "content": "Protesters storm the Capitol on January 6, 2021, in Washington DC.John Minchillo/AP\r\n<ul><li>Presidential pardons are usually vetted by the DOJ office of the pardon attorney.</li><li>The first Proud \u2026 [+4155 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Noah Lewis,Lilian Manansala",
-        "title": "How the US voted in every election, from George Washington to Donald Trump",
-        "description": "Maps show us how the US states have voted over time in 60 presidential elections \u2014 and who have been the winners and losers along the way.",
-        "url": "https://www.businessinsider.com/election-president-states-vote-trump-harris-biden-electoral-college-history-2024-11",
-        "urlToImage": "https://i.insider.com/6736e9a1ede4eeae3927c0a1?width=1200&format=jpeg",
-        "publishedAt": "2024-11-15T15:56:34Z",
-        "content": "The United States has had 60 presidential elections, starting in 1789. New parties have come and gone, while new states expanded the electoral map. Maps show us how each state has voted over time \u2014 a\u2026 [+98 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Natalie Musumeci",
-        "title": "These Trump loyalists named to roles in the new administration once flocked to a courtroom for his criminal trial",
-        "description": "Four loyalists who rallied behind President-elect Donald Trump during his criminal hush-money trial have been tapped for roles in his administration.",
-        "url": "https://www.businessinsider.com/donald-trump-loyalists-picked-new-administration-hush-money-trial-2024-11",
-        "urlToImage": "https://i.insider.com/67366b60fa0140cdd5639aad?width=1200&format=jpeg",
-        "publishedAt": "2024-11-14T22:00:12Z",
-        "content": "An entourage of GOP elites rallied behind President-elect Donald Trump during his criminal hush-money trial.Curtis Means - Pool/Getty Images\r\n<ul><li>Allies of Donald Trump who backed him during his \u2026 [+3437 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Theron Mohamed",
-        "title": "Jamie Dimon says bankers are 'dancing in the street' because they expect Trump to cut red tape",
-        "description": "JPMorgan CEO Jamie Dimon said Wall Street is buzzing at the prospect of Trump deregulating the banking industry and making it easier to do business.",
-        "url": "https://www.businessinsider.com/jamie-dimon-jpmorgan-trump-deregulation-banks-musk-vivek-policy-election-2024-11",
-        "urlToImage": "https://i.insider.com/6737274b192f52589858c443?width=1200&format=jpeg",
-        "publishedAt": "2024-11-15T11:00:37Z",
-        "content": "Jamie Dimon is JPMorgan Chase CEO.Kevin Dietsch/Getty Images\r\n<ul><li>Jamie Dimon says bankers are \"dancing in the street\" because they expect Donald Trump to cut regulations.</li><li>The JPMorgan CE\u2026 [+2121 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "Erin Snodgrass",
-        "title": "Peter Thiel says Elon Musk's embrace of Donald Trump helped other Silicon Valley leaders feel safe supporting him",
-        "description": "Billionaire Peter Thiel credited Elon Musk's public support of Donald Trump with helping other tech leaders feel safe embracing the president-elect.",
-        "url": "https://www.businessinsider.com/peter-thiel-elon-musk-turn-donald-trump-other-tech-ceos-2024-11",
-        "urlToImage": "https://i.insider.com/62164c6245889c0019d1e31e?width=800&format=jpeg",
-        "publishedAt": "2024-11-15T03:58:01Z",
-        "content": "Peter Thiel credited Elon Musk with helping other tech leaders feel safe supporting Donald Trump.Getty Images\r\n<ul><li>Peter Thiel attributed recent Trump support in Silicon Valley, in part, to Elon \u2026 [+3597 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "jsor@businessinsider.com (Jennifer Sor)",
-        "title": "Trump could push the US debt to levels that cannot be ignored by the end of 2025, BlackRock's bond chief says",
-        "description": "Trump's plans would likely add large amounts to the US debt pile, economists have predicted. The national debt stands at almost $36 trillion.",
-        "url": "https://www.businessinsider.com/trump-us-debt-levels-government-borrowing-treasury-blackrock-rick-rieder-2024-11",
-        "urlToImage": "https://i.insider.com/6734be98192f525898581993?width=1200&format=jpeg",
-        "publishedAt": "2024-11-13T16:58:53Z",
-        "content": "The mountain of government debt could swell to levels the US won't be able to ignore anymore as soon as next year, BlackRock's Rick Rieder said. \r\nThe asset manager's head of global fixed income said\u2026 [+2919 chars]"
-    },
-    {
-        "source": {
-            "id": "the-hill",
-            "name": "The Hill"
-        },
-        "author": "Sarah Fortinsky",
-        "title": "Haley on Trump administration snub: \u2018I know the game he was playing\u2019",
-        "description": "Former United Nations Ambassador Nikki Haley said Wednesday that President-elect Trump knew she did not want to serve in his second administration when he...",
-        "url": "https://thehill.com/homenews/campaign/4990602-nikki-haley-donald-trump-second-term/",
-        "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/2b77dba4c912f6750d5919ca8dd0b722",
-        "publishedAt": "2024-11-14T17:17:22Z",
-        "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nF\u2026 [+3703 chars]"
+        "title": "Trump Media extends rally to 280% as MSG event spurs meme-stock activity",
+        "description": "Shares in the Truth Social parent company jumped as much as 22% on Monday after the former president's rally in Manhattan.",
+        "url": "https://markets.businessinsider.com/news/stocks/trump-media-djt-truth-social-election-madison-square-garden-rally-2024-10",
+        "urlToImage": "https://i.insider.com/671f9e8fa0a0cc14f224524c?width=1200&format=jpeg",
+        "publishedAt": "2024-10-28T16:45:14Z",
+        "content": "Donald Trump's high-profile event at the Madison Square Garden was followed by a surge in his media stock.\r\nShares of Trump Media &amp; Technology Group the parent company of Truth Social soared as m\u2026 [+1384 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": null,
-        "title": "What White House picks tell us about Trump 2.0",
-        "description": "The contours and priorities of his new presidency are starting to take shape as he fills key positions.",
-        "url": "https://www.bbc.com/news/articles/cm2m1ey10rxo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d023/live/e5b6f8c0-a13f-11ef-accd-1951fe8cd98c.jpg",
-        "publishedAt": "2024-11-13T01:22:29Z",
-        "content": "Trump's choice of Congresswoman Elise Stefanik for US ambassador to the UN suggests he'll take a strong approach to relations with China. \r\nA week after Donald Trump won a second-term in the White Ho\u2026 [+8091 chars]"
+        "author": "Dan Alexander, Forbes Staff, \n Dan Alexander, Forbes Staff\n https://www.forbes.com/sites/danalexander/",
+        "title": "How Trump Built A Golf Empire With Secret Financing",
+        "description": "Rumors of money laundering have circled Donald Trump\u2019s golf business for years. Forbes uncovered the true source of the funds.",
+        "url": "https://www.forbes.com/sites/danalexander/2024/10/29/how-trump-built-a-golf-empire-with-secret-financing/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671be7590279d7279c3f386f/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T10:30:00Z",
+        "content": "Within months ofbecoming president in 2017, Donald Trump faced questions about the money behind his golf empire. The intrigue started with a comment from a golf writer, who claimed that Trumps son Er\u2026 [+13657 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": null,
-        "title": "Trump meets Argentina's Milei ahead of conservative summit",
-        "description": "Argentina's president is the first foreign leader to meet Trump since his election victory on 5 November.",
-        "url": "https://www.bbc.com/news/articles/cx28g3de7p1o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/df4e/live/70e56de0-a32b-11ef-a4fe-a3e9a6c5d640.jpg",
-        "publishedAt": "2024-11-15T11:14:48Z",
-        "content": "Donald Trump has said it was an \"honour\" to meet Argentinas President Javier Milei in Florida ahead of a conservative investment summit.\r\nThe right-wing leader is the first foreign leader to meet Tru\u2026 [+1717 chars]"
+        "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
+        "title": "Trump And Harris Could Face Recounts In These Swing States",
+        "description": "Polls suggest the two candidates\u2019 vote counts could end up with razor-thin margins in battleground states.",
+        "url": "https://www.forbes.com/sites/alisondurkee/2024/10/28/trump-and-harris-could-face-recounts-in-these-swing-states/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671feb83b56c03b8fb87799a/0x0.jpg?format=jpg&crop=4200,2361,x0,y147,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-28T19:59:55Z",
+        "content": "With polling showing a neck-and-neck race between former President Donald Trump and Vice President Kamala Harris in battleground states, its possible states could have to hold recounts after Election\u2026 [+5750 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": null,
-        "title": "Trump, Musk and new cabinet nominees celebrate at UFC",
-        "description": "The President-elect was joined by Robert F Kennedy Jr, Tulsi Gabbard and Vivek Ramaswamy.",
-        "url": "https://www.bbc.com/news/articles/ckgd1p8w4xlo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b73/live/97b3dda0-a4c3-11ef-8b90-03d4a3117e74.jpg",
-        "publishedAt": "2024-11-17T09:03:47Z",
-        "content": "UFC fighter Jon Jones celebrated by handing Trump his title belt\r\nDonald Trump received a warm welcome as he celebrated his election victory at the Ultimate Fighting Championship (UFC) in New York al\u2026 [+1695 chars]"
-    },
-    {
-        "source": {
-            "id": "fox-news",
-            "name": "Fox News"
-        },
-        "author": "Fox News Staff",
-        "title": "Fox News AI Newsletter: AI developers discover 'Donald Trump neuron', expert says",
-        "description": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
-        "url": "https://www.foxnews.com/tech/ai-developers-discover-donald-trump-neuron-expert-says",
-        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/artificial-intelligence-trump-2.jpg",
-        "publishedAt": "2024-11-13T16:56:33Z",
-        "content": "Welcome to Fox News Artificial Intelligence newsletter with the latest AI technology advancements.\r\nIN TODAYS NEWSLETTER:\r\n- AI developers discover 'Donald Trump neuron', expert says\r\n- Petition call\u2026 [+1662 chars]"
+        "author": "Norbert Michel, Contributor, \n Norbert Michel, Contributor\n https://www.forbes.com/sites/norbertmichel/",
+        "title": "Trump Might Seem Scary, But Monetary Policy Is Political",
+        "description": "Many people are worried that Trump might take an active role in the Fed's policies. The truth, though, is Fed independence has always been something of a myth.",
+        "url": "https://www.forbes.com/sites/norbertmichel/2024/10/29/trump-might-seem-scary-but-monetary-policy-is-political/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671ffa7842ee9efad0d0759e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T13:30:00Z",
+        "content": "PALM BEACH, FLORIDA - MARCH 19: Former U.S. President Donald Trump speaks to the media after voting ... [+] at a polling station setup in the Morton and Barbara Mandel Recreation Center on March 19, \u2026 [+6092 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": null,
-        "title": "Xi says he will work with Trump in last meeting with Biden",
-        "description": "The incoming Trump administration loomed over the final meeting between the two leaders.",
-        "url": "https://www.bbc.com/news/articles/cx2l4dn802lo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c14d/live/ba904c10-a481-11ef-972e-6d0c4928eb8c.png",
-        "publishedAt": "2024-11-17T02:38:13Z",
-        "content": "Chinese leader Xi Jinping has pledged to work with incoming President Donald Trump in his final meeting with current US leader Joe Biden.\r\nThe two met on Saturday on the sidelines of the annual Asia-\u2026 [+3033 chars]"
+        "author": "John Hyatt, Forbes Staff, \n John Hyatt, Forbes Staff\n https://www.forbes.com/sites/johnhyatt/",
+        "title": "Puerto Rican Billionaire Slams \u2018Hurtful\u2019 Comments At Trump MSG Rally",
+        "description": "Buyout tycoon Jos\u00e9 E. Feliciano speaks out against a Trump surrogate\u2019s disparaging remarks about Puerto Rico, and urges his fellow Americans to vote.",
+        "url": "https://www.forbes.com/sites/johnhyatt/2024/10/29/puerto-rican-billionaire-slams-hurtful-comments-at-trump-msg-rally/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6720e481053ebbafbe66741a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T13:39:18Z",
+        "content": "PRINCETON, NEW JERSEY - MAY 05: Jos\u00e9 E. Feliciano, Co-Founder and Managing Partner of Clearlake Capital, speaks on stage at the Dedication of Kwanza Jones Hall &amp; Jos\u00e9 E. Feliciano Hall at Princet\u2026 [+2992 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Variety"
         },
-        "author": null,
-        "title": "What Trump could do on day one in the White House",
-        "description": "Trump has said he will \"make heads spin\" as he moves full-speed ahead after his inauguration.",
-        "url": "https://www.bbc.com/news/articles/ced961egp65o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/39e3/live/db5708e0-a129-11ef-b580-8d99e8d7f9ec.jpg",
-        "publishedAt": "2024-11-13T17:22:01Z",
-        "content": "Donald Trump at his first inauguration in 2017\r\nDonald Trump and his Republican Party have an ambitious agenda and control of US Congress. \r\nTrump has said he will \"make heads spin\" as he moves full-\u2026 [+9986 chars]"
+        "author": "Zack Sharf",
+        "title": "Whoopi Goldberg Calls Out Joe Rogan\u2019s \u2018Fake News\u2019 About \u2018The View\u2019 Once Loving Trump; 2011 Interview Shows Goldberg Slamming Trump\u2019s \u2018B.S.\u2019 to His Face",
+        "description": "Whoopi Goldberg put Joe Rogan in his place during an episode of \u201cThe View\u201d in which the EGOT winner corrected Rogan\u2019s false claims about one of Trump\u2019s appearances on the ABC daytime talk show. Trump recently guested on Rogan\u2019s Spotify podcast \u201cThe Joe Rogan \u2026",
+        "url": "https://variety.com/2024/tv/news/whoopi-goldberg-calls-out-joe-rogan-lies-the-view-donald-trump-1236192604/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2024/10/rogan-whoopi-trump.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2024-10-28T17:35:40Z",
+        "content": "Whoopi Goldberg put Joe Rogan in his place during an episode of \u201cThe View\u201d in which the EGOT winner corrected Rogan\u2019s false claims about one of Trump\u2019s appearances on the ABC daytime talk show. Trump\u2026 [+3749 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Variety"
         },
-        "author": null,
-        "title": "What are recess appointments and how will Trump administration picks be vetted?",
-        "description": "Many will go through a lengthy Senate vetting process before they serve in the Trump administration",
-        "url": "https://www.bbc.com/news/articles/cvg7r5e3gz7o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34ae/live/c01be7d0-a237-11ef-8c39-91ac0e240387.jpg",
-        "publishedAt": "2024-11-14T03:49:34Z",
-        "content": "Donald Trump has announced many picks this week to join his administration when he becomes US president in January. \r\nBut those personnel decisions aren't automatic.\r\nEven with the backing of the fut\u2026 [+3802 chars]"
+        "author": "Elskes",
+        "title": "\u2018Emilia Perez\u2019 Stars Talk Push to Vote After Racist Jokes at Trump Rally: \u2018I Definitely Want to Stand by My People\u2019",
+        "description": "Following in the footsteps of Selena Gomez, who dropped her ballot off on the way to the premiere of \u201cWizards Beyond Waverly Place,\u201d fellow \u201cEmilia Perez\u201d star Zoe Salda\u00f1a also cast her vote this week, the star shares while attending the Netflix co-hosted pre\u2026",
+        "url": "https://variety.com/2024/scene/global/emilia-perez-premiere-tafff-election-voting-latino-1236194968/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2024/10/P10OU0F.jpg?crop=0px%2C28px%2C1199px%2C675px&resize=1000%2C563",
+        "publishedAt": "2024-10-30T22:47:45Z",
+        "content": "Following in the footsteps of Selena Gomez, who dropped her ballot off on the way to the premiere of \u201cWizards Beyond Waverly Place,\u201d fellow \u201cEmilia Perez\u201d star Zoe Salda\u00f1a also cast her vote this wee\u2026 [+6192 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": null,
-        "title": "Trump picking Gaetz to head justice department stuns - but sends strong message",
-        "description": "Picking the outspoken congressman for attorney general is Trump laying down a challenge, writes Anthony Zurcher.",
-        "url": "https://www.bbc.com/news/articles/c2k0472q8v0o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2f4b/live/91a84860-a26b-11ef-a4fe-a3e9a6c5d640.jpg",
-        "publishedAt": "2024-11-14T02:36:48Z",
-        "content": "Donald Trumps nomination of Congressman Matt Gaetz to be his attorney general arrived like a thunder-clap in Washington DC on Wednesday afternoon.\r\nOf all the president-elects picks for his administr\u2026 [+4798 chars]"
+        "author": "Stephen Pastis, Forbes Staff, \n Stephen Pastis, Forbes Staff\n https://www.forbes.com/sites/stephenpastis/",
+        "title": "Joe Rogan Says Trump Interview Faced \u2018Issue\u2019 With YouTube Search\u2014Here\u2019s What We Know",
+        "description": "Rogan\u2019s latest podcast episode interviewing Donald Trump faced technical difficulties early on. But now Rogan says it has a bigger issue.",
+        "url": "https://www.forbes.com/sites/stephenpastis/2024/10/29/joe-rogan-says-trump-interview-faced-issue-with-youtube-search-heres-what-we-know/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6720edd961f3b203ca402c32/0x0.jpg?format=jpg&crop=3573,2009,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T14:39:00Z",
+        "content": "Joe Rogan says his interview with former President Donald Trump faced an issue that prevented it from surfacing on YouTubes search function, a problem Google reportedly said it is addressing, as some\u2026 [+3945 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+        "title": "Arizona 2024 Trump-Harris Polls: Race Virtually Tied In 3 New Surveys",
+        "description": "President Joe Biden narrowly won the battleground state in 2020 over Trump, who sought to overturn election results in the state.",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/10/29/arizona-2024-trump-harris-polls-race-virtually-tied-in-3-new-surveys/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670abf3927a43f3f2d89511a/0x0.jpg?format=jpg&crop=3920,2613,x0,y19,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-29T16:48:16Z",
+        "content": "Polls of Arizona remain extremely tight, including a new survey that shows Vice President Kamala Harris has a one-point lead over former President Donald Trumpwell within the margin of errorin a swin\u2026 [+4301 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
+        "title": "Philadelphia DA Sues Elon Musk\u2019s Pro-Trump PAC Over $1 Million Giveaway",
+        "description": "America PAC has continued the giveaway even as the DOJ has warned it may violate federal law.",
+        "url": "https://www.forbes.com/sites/alisondurkee/2024/10/28/philadelphia-da-sues-elon-musks-pro-trump-pac-over-1-million-giveaway/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671f9fbd1be044323d6d828f/0x0.jpg?format=jpg&crop=2619,1474,x0,y8,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-28T14:37:06Z",
+        "content": "Philadelphias district attorney sued billionaire Elon Musk and his super PAC supporting Donald Trumps candidacy Monday over the groups $1 million giveaway to swing state voters, the first known lawsu\u2026 [+4170 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+        "title": "Donald Trump\u2019s Net Worth Has Doubled In October To $8 Billion As Trump Media Stock Skyrockets",
+        "description": "Trump\u2019s net worth has largely moved in sync with the stock performance from his media company, which is up more than 200% in October.",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/10/29/donald-trumps-net-worth-has-doubled-in-october-to-8-billion-as-trump-media-stock-skyrockets/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67217c33ae194ca838cfccb3/0x0.jpg?format=jpg&crop=3632,2419,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-30T00:23:05Z",
+        "content": "Former President Donald Trumps net worth has doubled this month, increasing from under $4 billion at the start of October to $8 billion Tuesday and coinciding with a multi-week rally from his media c\u2026 [+2185 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Siladitya Ray, Forbes Staff, \n Siladitya Ray, Forbes Staff\n https://www.forbes.com/sites/siladityaray/",
+        "title": "Biden Attempts To Clarify His \u2018Garbage\u2019 Comment As Republicans Say It Insults All Trump Supporters",
+        "description": "President Joe Biden on Tuesday appeared to describe Donald Trump\u2019s supporters as \"garbage\" while denouncing a disparaging remark about Puerto Rico at former President\u2019...",
+        "url": "https://www.forbes.com/sites/siladityaray/2024/10/30/biden-attempts-to-clarify-his-garbage-comment-as-republicans-say-it-insults-all-trump-supporters/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6721b4c032c2c6d071e19ded/0x0.jpg?format=jpg&crop=3000,1687,x0,y208,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-30T04:32:27Z",
+        "content": "President Joe Biden on Tuesday appeared to describe Donald Trumps supporters as garbage while denouncing a disparaging remark about Puerto Rico at former Presidents Madison Square Garden rallydrawing\u2026 [+3794 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Harris Accuses Trump Of Wanting \u2018Unchecked Power\u2019 As She Delivers Closing Message In Washington",
+        "description": "Harris opened her speech from the Ellipse in Washington by bashing Trump for his role in the Jan. 6 Capitol riots and his promise to seek retribution against his political enemies.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/29/harris-accuses-trump-of-wanting-unchecked-power-as-she-delivers-closing-message-in-washington/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67218448ae45fa0fc7bc5c44/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-30T00:58:15Z",
+        "content": "Vice President Kamala Harris spent the bulk of her closing argument to voters Tuesday assailing former President Donald Trump, warning Trump is unstable, obsessed with revenge, consumed with grievanc\u2026 [+3478 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Tim Lammers, Contributor, \n Tim Lammers, Contributor\n https://www.forbes.com/sites/timlammers/",
+        "title": "Donald Trump Movie \u2018The Apprentice\u2019 New On Digital Streaming This Week",
+        "description": "\u201cThe Apprentice\u201d\u2014a biopic about the rise of Donald Trump as a real estate mogul\u2014is new on digital streaming this week. Find out when and where you can watch it at home.",
+        "url": "https://www.forbes.com/sites/timlammers/2024/10/28/donald-trump-movie-the-apprentice-new-on-digital-streaming-this-week/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671fc9bfb55d253c1c625d01/0x0.jpg?format=jpg&crop=960,540,x8,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-28T17:49:02Z",
+        "content": "Jeremy Strong and Sebastian Stan in \"The Apprentice.\"\r\nBriarcliff Entertainment\r\nThe Apprenticea biopic about the rise of Donald Trump as a real estate mogulis new on digital streaming this week.\r\nTh\u2026 [+3223 chars]"
     },
     {
         "source": {
             "id": "buzzfeed",
             "name": "Buzzfeed"
         },
-        "author": "Alana Valko",
-        "title": "A Woman Went Viral For Asking If Other Women Also Woke Up In The Dead Of Night As Trump Was Elected, And Literally, Everyone Did",
-        "description": "I need to know if you did, too.View Entire Post \u203a",
-        "url": "https://www.buzzfeed.com/alanavalko/women-election-night-viral-tiktok",
-        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/12/18/enhanced/016e8fd488ab/original-579-1731437789-5.jpg?crop=2999:1575;0,0%26downsize=1250:*",
-        "publishedAt": "2024-11-12T20:24:04Z",
-        "content": "Make your vote count! Learn more about how to register, important deadlines, and your state's mail-in voting options here. For more on the 2024 election, check out coverage on BuzzFeed, HuffPost, and\u2026 [+9 chars]"
+        "author": "Alexa Lisitza",
+        "title": "Gay Men Are Dragging J.D. Vance After He Said He Wouldn't Be Surprised If He And Trump Won \"The Normal Gay Guy Vote\"",
+        "description": "What exactly is a \"normal gay guy vote\"?View Entire Post \u203a",
+        "url": "https://www.buzzfeed.com/alexalisitza/reactions-jd-vance-normal-gay-comment",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/1/21/enhanced/417fdd057af7/original-6928-1730494815-3.jpg?crop=3008:1575;0,0%26downsize=1250:*",
+        "publishedAt": "2024-11-04T13:02:02Z",
+        "content": "As someone who has been classified as a normal gay guy by conservatives my whole life, absolutely not. The gay men voting for Trump are just like him: theyre miserable, vain, attention seeking, self-\u2026 [+138 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": "Gully Singh",
-        "title": "'I was more excited to fight before Spiderman than Trump'",
-        "description": "Paul Craig says he was more excited by \"fighting in front of Spiderman\" than he would be Donald Trump as the Scot prepares to meet Bo Nickal at Madison Square Garden.",
-        "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cy9j5npdxz5o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/07cb/live/66867aa0-a1b0-11ef-a749-450a431fa365.jpg",
-        "publishedAt": "2024-11-13T11:22:26Z",
-        "content": "Paul Craig says he was more excited by \"fighting in front of Spiderman\" than he would be Donald Trump as the Scot prepares to meet Bo Nickal at Madison Square Garden as part of UFC 309.\r\nCraig, 36, t\u2026 [+866 chars]"
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Nevada 2024 Trump-Harris Polls: Trump Holds Razor-Thin Advantage\u2014As Harris Struggles With Latinos",
+        "description": "Nevada has voted for Democrats in every presidential election since 2008.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/nevada-2024-trump-harris-polls-trump-holds-razor-thin-advantage-as-harris-struggles-with-latinos/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672112b5f1591eb0f2505954/0x0.jpg?format=jpg&crop=3114,1752,x0,y286,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-04T17:22:49Z",
+        "content": "Vice President Kamala Harris and former President Donald Trump are essentially tied in Nevada in what could be the final pre-election swing state survey, though Trump has a slight advantage in pollin\u2026 [+4743 chars]"
     },
     {
         "source": {
             "id": null,
-            "name": "BBC News"
+            "name": "Forbes"
         },
-        "author": "BBC Sport",
-        "title": "Robertson beats Trump to make Champion of Champions semis",
-        "description": "Neil Robertson claims a 6-4 win over world number one Judd Trump to move into the semi-finals of the Champion of Champions.",
-        "url": "https://www.bbc.com/sport/snooker/articles/ckgvm87eyg4o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/6898/live/00418660-a212-11ef-b45b-151e96b4a59c.jpg",
-        "publishedAt": "2024-11-13T23:42:16Z",
-        "content": "Neil Robertson claimed a 6-4 win over world number one Judd Trump to move into the semi-finals of the Champion of Champions in Bolton.\r\nEngland's Trump took the opener with a run of 69 but Robertson \u2026 [+689 chars]"
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Georgia 2024 Trump-Harris Polls: Trump (Barely) Ahead In Most Final Surveys",
+        "description": "Biden was the first Democratic presidential candidate to win Georgia since 1992.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/georgia-2024-trump-harris-polls-trump-barely-ahead-in-most-final-surveys/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6704190ebf10232404c5e121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-04T15:38:25Z",
+        "content": "Former President Donald Trump has erased Vice President Kamala Harris brief lead in Georgia in polling averages shortly after her late entrance into the race, as he aims to flip the state after losin\u2026 [+4274 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Michigan 2024 Trump-Harris Polls: Trump Leads In Latest Survey\u2014But Race Remains Tight",
+        "description": "Biden flipped Michigan in the 2020 election.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/michigan-2024-trump-harris-polls-trump-leads-in-latest-survey-but-race-remains-tight/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67237c6a30e200555382b3b3/0x0.jpg?format=jpg&crop=4690,2637,x0,y191,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T12:48:10Z",
+        "content": "Former President Donald Trump leads Vice President Kamala Harris in Michigan in the latest survey, but Harris has a slight advantage in three other polls released this weekindicating the race remains\u2026 [+6747 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+        "title": "Arizona 2024 Trump-Harris Polls: Trump Maintains Lead In Latest Survey",
+        "description": "President Joe Biden narrowly won the battleground state in 2020 over Trump, who sought to overturn election results in the state.",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/11/03/arizona-2024-trump-harris-polls-trump-maintains-lead-in-latest-survey/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670abf3927a43f3f2d89511a/0x0.jpg?format=jpg&crop=3920,2613,x0,y19,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-03T15:30:16Z",
+        "content": "Former President Donald Trump has a four-point lead over Vice President Kamala Harris in Arizona in a new New York Times swing state surveyrepresenting his widest lead of any battleground polled.\r\nTr\u2026 [+4190 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Tonya Evans, Contributor, \n Tonya Evans, Contributor\n https://www.forbes.com/sites/tonyaevans/",
+        "title": "Latino Crypto Voters: Trump Rally Comments Spark Election Shift Debate",
+        "description": "Will Trump rally comments about Puerto Rico sway Latino crypto voters in 2024? Explore how cultural respect and financial interests could shape a pivotal election shift.",
+        "url": "https://www.forbes.com/sites/tonyaevans/2024/10/31/latino-crypto-voters-trump-rally-comments-spark-election-shift-debate/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723ebfb81ebe5bb94eeaeb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T20:54:05Z",
+        "content": "A supporter holds up the flag of Puerto Rico as Democratic Presidential candidate and former US Vice ... [+] President Joe Biden delivers remarks at a Drive-in event in Coconut Creek, Florida, on Oct\u2026 [+8754 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Kyle Khan-Mullins, Forbes Staff, \n Kyle Khan-Mullins, Forbes Staff\n https://www.forbes.com/sites/kylemullins/",
+        "title": "Why Eric Trump Likely Isn\u2019t As Rich As His Siblings",
+        "description": "An executive vice president of the Trump Organization, Eric Trump gets most of his fortune from running his dad\u2019s companies rather than equity in the businesses.",
+        "url": "https://www.forbes.com/sites/kylemullins/2024/11/02/why-eric-trump-likely-isnt-as-rich-as-his-siblings/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67250309bb58980b9b3534fb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-02T10:30:32Z",
+        "content": "In mid-October in Concord, North Carolina, Eric Trump introduced his father to a crowd of Christian faith leaders. He talked about how he believed God had saved his father from an assassination attem\u2026 [+6518 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Kyle Khan-Mullins, Forbes Staff, \n Kyle Khan-Mullins, Forbes Staff\n https://www.forbes.com/sites/kylemullins/",
+        "title": "Why Ivanka Trump Is Worth Less Than You Think",
+        "description": "Ivanka Trump built a brand based on success and elegance and aimed at professional women. Her father's politics upended everything.",
+        "url": "https://www.forbes.com/sites/kylemullins/2024/11/03/why-ivanka-trump-is-worth-less-than-you-think/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6725028aa40cba4c302a52b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-03T20:33:17Z",
+        "content": "Where in the world is Ivanka Trump? Donald Trumps most famous child, Ivanka became a staunch defender of his, introducing him at the 2016 and 2020 Republican conventions and even shutting down her bu\u2026 [+7995 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Michigan 2024 Trump-Harris Polls: Tie In Latest Survey",
+        "description": "Biden flipped Michigan in the 2020 election.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/03/michigan-2024-trump-harris-polls-tie-in-latest-survey/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67237c6a30e200555382b3b3/0x0.jpg?format=jpg&crop=4690,2637,x0,y191,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-03T14:56:31Z",
+        "content": "Former President Donald Trump and Vice President Kamala Harris are dead-even in Michigan in the latest survey, as three others this week show her with a slight advantage, and two show Trump aheadindi\u2026 [+6847 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Andy J. Semotiuk, Contributor, \n Andy J. Semotiuk, Contributor\n https://www.forbes.com/sites/andyjsemotiuk/",
+        "title": "Trump Vs. Harris On Immigration Deportation Or Path To Citizenship?",
+        "description": "Donald Trump pledges to deport all immigrants within the U.S. without legal status. Kamala Harris calls for a Path to Citizenship for them. Who is right?",
+        "url": "https://www.forbes.com/sites/andyjsemotiuk/2024/10/31/trump-vs-harris-on-immigration----deportation-or-path-to-citizenship/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6722da353dbd30c7143d6444/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T11:09:43Z",
+        "content": "US Vice President and Democratic presidential candidate Kamala Harris (R) shakes hands with former ... [+] US President and Republican presidential candidate Donald Trump during a presidential debate\u2026 [+3918 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Richard Behar, Contributor, \n Richard Behar, Contributor\n https://www.forbes.com/sites/richardbehar/",
+        "title": "Trump, Madoff And The Art (And Science) Of Pathological Lying",
+        "description": "No matter one\u2019s politics, there can be little doubt among rational people that Donald Trump is the greatest falsifier who ever held the American presidency.",
+        "url": "https://www.forbes.com/sites/richardbehar/2024/10/31/trump-madoff-and-the-art-and-science-of-pathological-lying/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6722df17e44b64913ecd1eb4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T15:44:01Z",
+        "content": "Trump's former Joint Chief of Staffs, Mark Milley, holding the 2017 book \"The Dangerous Case of ... [+] Donald Trump: 27 Psychiatrists and Mental Health Experts Assess A President.\" Location: Washing\u2026 [+26665 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Howard Gleckman, Senior Contributor, \n Howard Gleckman, Senior Contributor\n https://www.forbes.com/sites/howardgleckman/",
+        "title": "The Polar Opposite Tax Policies Of Harris And Trump",
+        "description": "Harris backs tax cuts for low- and moderate-income households. Trump has proposed big tariffs and tax cuts aimed at specific, but disparate, constituencies.",
+        "url": "https://www.forbes.com/sites/howardgleckman/2024/11/01/the-polar-opposite-tax-policies-of-harris-and-trump/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6724e01dfa2776027f1733e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-01T14:17:08Z",
+        "content": "Democratic presidential candidate Kamala Harris (R) shakes hands with Republican presidential ... [+] candidate Donald Trump during a presidential debate in Philadelphia, Pennsylvania, on September 1\u2026 [+5715 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
+        "title": "Trump Media Shares Halted Again For Volatile Trading As Price Falls",
+        "description": "Shares of the Truth Social parent have surged this month before a recent selloff.",
+        "url": "https://www.forbes.com/sites/tylerroush/2024/10/31/trump-media-shares-halted-again-for-volatile-trading-as-price-falls/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723a72f0020b76773891758/0x0.jpg?format=jpg&crop=3139,1766,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T15:50:40Z",
+        "content": "Trading in Trump Media &amp; Technology Group shares was halted multiple times again on Thursday as the companys stock price dropped, erasing more than $500 million from former President Donald Trump\u2026 [+2214 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Can Trump And Harris Tie? It\u2019s Possible\u2014Here\u2019s What Would Happen",
+        "description": "The House would select the president and the Senate would pick the vice president.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/can-trump-and-harris-tie-its-possible-heres-what-would-happen/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723a428fda7c1290c1e066b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T15:42:24Z",
+        "content": "Former President Donald Trump and Vice President Kamala Harris are in a dead heat in national polls and the seven swing states less than a week before Election Daybut theres a slim chance of it endin\u2026 [+5306 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Kristin Hunt, Forbes Staff, \n Kristin Hunt, Forbes Staff\n https://www.forbes.com/",
+        "title": "Donald Trump's Net Worth Down $1 Billion As Trump Media Shares Plummet | Forbes Topline",
+        "description": "Former President Donald Trump's net worth has dropped more than $1 billion Wednesday, as shares in Trump Media & Technology Group plummeted 20% ending a day's long rally for the company's stock as Election Day nears.    Read the full story on Forbes: https://\u2026",
+        "url": "https://www.forbes.com/video/69fb59fa-e49b-47bf-a095-d86cbbfabec4/donald-trumps-net-worth-down-1-billion-as-trump-media-shares-plummet--forbes-topline/",
+        "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2024/10/31/69fb59fa-e49b-47bf-a095-d86cbbfabec4_thumb.jpg?format=jpg&height=460&width=800&fit=bounds",
+        "publishedAt": "2024-10-31T15:18:37Z",
+        "content": "Former President Donald Trump's net worth has dropped more than $1 billion Wednesday, as shares in Trump Media &amp; Technology Group plummeted 20% ending a day's long rally for the company's stock a\u2026 [+180 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "North Carolina 2024 Trump-Harris Polls: No Clear Leader In 3 New Polls",
+        "description": "Polls show Trump and Harris are in a virtual tie for North Carolina\u2019s 16 electoral college votes.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/north-carolina-2024-trump-harris-polls-trump-leads-by-2-points-in-new-survey/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67199405f7064b77b7f00646/0x0.jpg?format=jpg&crop=3736,2101,x0,y49,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T16:39:44Z",
+        "content": "Vice President Kamala Harris is vying to become only the second Democratic presidential candidate to win North Carolina in more than 40 years, as most polls show her and former President Donald Trump\u2026 [+4739 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Pennsylvania 2024 Trump-Harris Polls: Race Is Tied In 2 New Polls Of Key Battleground",
+        "description": "Pennsylvania has voted for 10 of the last 12 White House winners.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/pennsylvania-2024-trump-harris-polls-race-is-tied-in-2-new-polls-of-key-battleground/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671690ba6a1a4fd1a8e09b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-04T16:47:55Z",
+        "content": "The race in the crucial battleground of Pennsylvania is closer than any other swing state contest headed into Election Day, according to polling averages that show a neck-and-neck race between former\u2026 [+6433 chars]"
     }
 ]
