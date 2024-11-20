@@ -4486,16 +4486,497 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": null,
-        "title": "What Trump could do on day one in the White House",
-        "description": "Trump has said he will \"make heads spin\" as he moves full-speed ahead after his inauguration.",
-        "url": "https://www.bbc.com/news/articles/ced961egp65o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/39e3/live/db5708e0-a129-11ef-b580-8d99e8d7f9ec.jpg",
-        "publishedAt": "2024-11-13T17:22:01Z",
-        "content": "Donald Trump at his first inauguration in 2017\r\nDonald Trump and his Republican Party have an ambitious agenda and control of US Congress. \r\nTrump has said he will \"make heads spin\" as he moves full-\u2026 [+9986 chars]"
+        "author": "CBS News",
+        "title": "Trump emphasizes economy, immigration as top issues before 2024 elections",
+        "description": "Former President Donald Trump delivered remarks at Mar-a-Lago focused on the economy, immigration and the U.S.-Mexico border as both presidential campaigns make last-minute efforts to court undecided voters. CBS News' Manuel Bojorquez has more.",
+        "url": "https://www.cbsnews.com/video/trump-emphasizes-economy-immigration-as-top-issues-before-2024-elections/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/29/02a5fdb8-b4a8-43d4-b485-4f2c00915de2/thumbnail/1200x630/81ca774dcc6d42f9398a7e9631c5032f/cbsn-fusion-trump-emphasizes-economy-immigration-as-top-issues-before-2024-elections-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T18:45:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Melissa Quinn",
+        "title": "Donald Trump and Kamala Harris' stances on police",
+        "description": "In the run-up to the 2024 presidential election, both Harris and Trump have been presenting themselves as the tough-on-crime candidate.",
+        "url": "https://www.cbsnews.com/news/trump-harris-police-2024/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/14/90ba0d4c-e76a-484c-99ad-546997481318/thumbnail/1200x630/2b33339f5c6ed7eeb0f62466dc7e5517/cbsn-fusion-harris-trump-push-for-votes-in-pennsylvania-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T17:32:46Z",
+        "content": "Washington \u2014 Crime is a focal point of former President Donald Trump's bid for the White House, and he and Vice President Kamala Harris have both been working to assume the mantle of the tough-on-cri\u2026 [+7063 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Trump facing bipartisan criticism for Madison Square Garden rally",
+        "description": "Former President Donald Trump is coming under bipartisan criticism for Sunday's rally at Madison Square Garden in New York City, which was marked by racist and crude comments. CBS News' Nikole Killion and Ed O'Keefe have the latest on the backlash.",
+        "url": "https://www.cbsnews.com/video/trump-facing-bipartisan-criticism-madison-square-garden-rally/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/28/2e3a6a4e-9dfa-48bd-a47e-9a185c53556e/thumbnail/1200x630/9f1200f381767c73ca9bf742c559dc99/cbsn-fusion-trump-facing-bipartisan-criticism-madison-square-garden-rally-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T22:48:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Puerto Rican voters weigh in on Trump rally backlash",
+        "description": "Nearly half a million Puerto Ricans live in Pennsylvania, comprising nearly 4% of the population of the largest battleground state. Will insensitive comments made by a comedian at a recent Trump rally impact their vote? Lilia Luciano spoke with Puerto Rican v\u2026",
+        "url": "https://www.cbsnews.com/video/puerto-rican-voters-weigh-in-on-trump-rally-backlash/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/28/f7793888-4901-440b-8079-5bef8317ddca/thumbnail/1200x630/7a8f15e6776fccdd44a9fdb5ead5eaf2/1028-en-luciano.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T23:36:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Elias Lopez",
+        "title": "Puerto Rican artist Nicky Jam takes back his Trump endorsement",
+        "description": "Reggaeton artist Nicky Jam on Wednesday revoked his endorsement of Donald Trump, after Tony Hinchcliffe's rally joke calling Puerto Rico \"garbage.\"",
+        "url": "https://www.cbsnews.com/news/nicky-jam-trump-endorsement-puerto-rico-madison-square-garden/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/07/3d073722-a81c-4ff0-99d4-90b6da5d0d1c/thumbnail/1200x630g2/9c5a2d982e5a1cfea3401aa2c04d2fd2/gettyimages-2172286249.jpg?v=da20036415aedcaca28a32ffe615549e",
+        "publishedAt": "2024-10-30T22:05:00Z",
+        "content": "Reggaeton star Nicky Jam on Wednesday revoked his endorsement of Donald Trump after a comedian called Puerto Rico \"a floating island of garbage\" at a Madison Square Garden rally for the former presid\u2026 [+4113 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Trump campaigns on immigration issue, Harris gets a Bush endorsement",
+        "description": "Former President Donald Trump delivered remarks in Florida where he focused on the impact of illegal immigration and security at the U.S.-Mexico border. Meanwhile, Barbara Pierce Bush, former President George W. Bush's daughter, endorsed Vice President Kamala\u2026",
+        "url": "https://www.cbsnews.com/video/trump-campaigns-on-immigration-issue-harris-gets-a-bush-endorsement/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/29/9b03c9e1-f338-44d1-b12a-4547899dd61e/thumbnail/1200x630/a36d4effedd9cee99e31a35c2d97e6bf/cbsn-fusion-trump-campaigns-on-immigration-issue-harris-gets-a-bush-endorsement-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T17:09:32Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Trump, Harris make final push 8 days from Election Day",
+        "description": "The 2024 presidential candidates entered their last full week of campaigning on Monday, with eight days left until Election Day. CBS News' Fin G\u00f3mez, Ed O'Keefe and Major Garrett have the latest.",
+        "url": "https://www.cbsnews.com/video/trump-harris-make-final-push-8-days-from-election-day/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/3a62f7c6-3916-4439-9802-59950398f7ac/thumbnail/1200x630/3e7e4a70af4150006ee9e75a1d8cfa4d/cbsn-fusion-trump-harris-make-final-push-8-days-from-election-day-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T23:39:24Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Emily Mae Czachor",
+        "title": "Man waves machete with Trump supporters at Florida polling station",
+        "description": "An 18-year-old man \"brandished a machete\" at an early voting station in Florida, where he protested with a group of Trump supporters, police said.",
+        "url": "https://www.cbsnews.com/news/man-machete-trump-supporters-florida-polling-station-police/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/30/444a64a4-4120-45f8-abc8-d9405e0d3943/thumbnail/1200x630/4679c2e5af137986f25c495a62fc3dde/machete-florida.png?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-30T14:21:00Z",
+        "content": "In-person early voting begins Monday for 2024 Florida general election \r\nIn-person early voting begins Monday for 2024 Florida general election02:29\r\nAn 18-year-old Florida man is in custody after he\u2026 [+2898 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Key takeaways from latest Trump, Harris race CBS News poll",
+        "description": "A gender gap and a tight race in battleground states appear to be some of the latest takeaways from the most recent CBS News poll on former President Donald Trump's race against Vice President Kamala Harris. CBS News executive director of elections and survey\u2026",
+        "url": "https://www.cbsnews.com/video/key-takeaways-from-latest-trump-harris-race-cbs-news-poll/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/09d9b326-e0bb-40ed-9f57-5f6971c3fdbc/thumbnail/1200x630/6da0cf7aa3c4150df58e9eecdea52772/cbsn-fusion-key-takeaways-from-latest-trump-harris-race-cbs-news-poll-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T18:36:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Puerto Rican politicians react to Trump rally racist, offensive comments",
+        "description": "Rep. Nydia Velazquez, a Democrat from New York, and other politicians called out comedian Tony Hinchcliffe's comments at former President Donald Trump's rally in New York City.",
+        "url": "https://www.cbsnews.com/video/puerto-rican-politicians-react-to-trump-rally-racist-offensive-comments/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/521c1294-9b86-419a-895c-d0832f6e627c/thumbnail/1200x630/d49b875c79f9b3c37bfde4012c867584/cbsn-fusion-puerto-rican-politicians-react-to-trump-rally-racist-offensive-comments-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T20:05:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Jennifer De Pinto, Fred Backus",
+        "title": "CBS News Harris-Trump Poll: All tied up in Pennsylvania",
+        "description": "More voters say they would be better off financially with Trump, but more think Harris has the cognitive health to serve.",
+        "url": "https://www.cbsnews.com/news/harris-trump-poll-pennsylvania-29-10-2024/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/29/fc31c064-cd0e-4aa7-8a50-4f3fdd53a94c/thumbnail/1200x630/6960ee3928a8969ae4818f7db3a6c1f7/screenshot-2024-10-29-at-2-12-49-pm.png?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T21:00:59Z",
+        "content": "With just a week to go, it's a tied race between Kamala Harris and Donald Trump in Pennsylvania \u2014 the biggest electoral vote prize of the battleground states in the 2024 election. \r\nTrump is helped b\u2026 [+3328 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Ed O'Keefe, Weijia Jiang, Olivia Rinaldi, Jacob Rosen, Fin G\u00f3mez, Arden Farhi",
+        "title": "Biden remark about Trump \"garbage\" rally angers GOP",
+        "description": "Biden was responding to a joke made at a Trump rally by comedian Tony Hinchcliffe, in which Hinchcliffe called Puerto Rico a \"floating island of garbage.\"",
+        "url": "https://www.cbsnews.com/news/bidens-response-to-garbage-joke-about-puerto-rico/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/30/e4fa7185-0c05-4ee6-8022-f88f46155198/thumbnail/1200x630g2/89f2bd63cbf16d3b10259d1e7b36b5c8/gettyimages-2181108541.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-30T03:27:00Z",
+        "content": "President Biden reinserted himself into the contentious campaign to succeed him, appearing to call former President Donald Trump's supporters \"garbage\" on a video call with Latino activists Tuesday e\u2026 [+5287 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Cecilia Vega",
+        "title": "Trump mass deportation plan could cost billions a year",
+        "description": "Immigration experts say Donald Trump's mass deportation plan, if carried out, could be complicated and cost billions a year. It could also lead to more family separations.",
+        "url": "https://www.cbsnews.com/news/trump-mass-deportation-plan-cost-consequences-60-minutes-transcript/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/27/64543c48-a893-45b3-9051-b27c3433243b/thumbnail/1200x630/ff91452b3a038916c23f51d1d7632041/deportation-video-vega.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-27T23:44:55Z",
+        "content": "With nine days until Election Day, former President Trump has stepped up his attacks on the Biden-Harris administration's record on illegal immigration and pledged that, if elected, he'll conduct the\u2026 [+13046 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Cecilia Vega, Camilo Montoya-Galvez, Aliza Chasan",
+        "title": "Migrant families worry over possible family separations if Trump wins",
+        "description": "With the U.S. just days away from an election that could see former President Trump back in office, some undocumented migrants fear family separations.",
+        "url": "https://www.cbsnews.com/news/family-separation-immigration-60-minutes/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/27/074df124-5a1e-4269-a298-ccaefc7e134c/thumbnail/1200x630/108a4afe5f3e91ec33d8137cb7062be2/deportation-article-3.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-27T23:45:02Z",
+        "content": "Former President Donald Trump's pledge to implement mass deportation if he's reelected has ignited fears of family separations. \r\nMonica Camacho Perez and her family have lived and worked in the Unit\u2026 [+3493 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Nidia Cavazos",
+        "title": "Bad Bunny endorses Harris, Trump rally sparks controversy",
+        "description": "With nine days until Election Day, Puerto Rico has been thrust into the spotlight by both campaigns.",
+        "url": "https://www.cbsnews.com/news/puerto-rico-tony-hinchcliffe-trump-rally-bad-bunny-kamala-harris/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/28/cbc998c5-0fdc-41e6-9eac-ffe0d4c7eece/thumbnail/1200x630/ee5673173bd18a99879e420fc78d47b3/gettyimages-2149763256.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T03:25:00Z",
+        "content": "With nine days until Election Day, Puerto Rico has been thrust into the spotlight by both campaigns. Vice President Kamala Harris unveiled a plan to assist the island \u2014 leading to an endorsement from\u2026 [+5708 chars]"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Why Trump is rallying in New York City",
+        "description": "Former President Donald Trump held a rally Sunday at Madison Square Garden in New York City, even though he is not expected to win the state of New York. Robert Costa explains the reason for the rally.",
+        "url": "https://www.cbsnews.com/video/why-trump-is-rallying-in-new-york-city/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/054e5d0b-bca3-4683-beb7-cf68e35d78c7/thumbnail/1200x630/3365319d29ee75aa86b1e6bb81a0c890/1027-wn-costa.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T01:04:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Eye Opener: Trump defends himself against being called a \"fascist\"",
+        "description": "Donald Trump responds to critics who say he is a \"fascist\" as Election Day looms. Also, the FBI is investigating fires at ballot drop boxes in Oregon and Washington state. All that and all that matters in today's Eye Opener.",
+        "url": "https://www.cbsnews.com/video/eye-opener-trump-defends-himself-against-being-called-a-fascist/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/29/327b4532-9a82-467c-8579-d4d947edc3f8/thumbnail/1200x630/f3f26bbe316fb7b1e73ce9f4048d7d12/1029-cmo-eye.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T13:41:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Key Trump ally Steve Bannon released from prison",
+        "description": "Just a week before Election Day, Steve Bannon, former White House chief strategist in the Trump administration, was released from federal prison after serving four months for contempt of Congress when he refused to cooperate with the House select committee in\u2026",
+        "url": "https://www.cbsnews.com/video/key-trump-ally-steve-bannon-released-from-prison/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/29/b69c82d2-69f7-4ca8-bc7d-cb088f4cdeea/thumbnail/1200x630/e9aa32547ac66e579caa94fde280b1ca/1029-en-macfarlane.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T23:28:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Hannah Knudsen, Hannah Knudsen",
+        "title": "Hispanic Voters Laugh Off Faux Media Outrage over MSG Trump Rally Comedian as They Vote for Trump",
+        "description": "Hispanic voters seem to be laughing off the faux media outrage over the Madison Square Garden rally comedian, judging by Florida early vote tallies.\nThe post Hispanic Voters Laugh Off Faux Media Outrage over MSG Trump Rally Comedian as They Vote for Trump app\u2026",
+        "url": "https://www.breitbart.com/politics/2024/10/29/hispanic-voters-laugh-off-faux-media-outrage-msg-trump-rally-comedian-as-they-vote-trump/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Hispanic-voters-Latinos-for-Trump-640x335.jpg",
+        "publishedAt": "2024-10-29T16:43:00Z",
+        "content": "Hispanic voters seem to be laughing off the faux media outrage over the Madison Square Garden rally comedian, showing up for Republicans in big numbers, even in places like traditionally blue Miami-D\u2026 [+1873 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Sahil Kapur",
+        "title": "Harris will ask voters to 'turn the page' on Trump era at the site of his Jan. 6 speech",
+        "description": "Kamala Harris will hold a rally Tuesday near the White House \u2014 the site where Donald Trump spoke on Jan. 6, 2021.",
+        "url": "https://www.nbcnews.com/politics/2024-election/harris-will-ask-voters-turn-page-trump-era-site-jan-6-speech-rcna177669",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241028-chicago-kamala-harris-ac-827p-0fa68e.jpg",
+        "publishedAt": "2024-10-29T09:00:00Z",
+        "content": "WASHINGTON Kamala Harris will hold a rally Tuesday near the White House at the site where Donald Trump addressed a crowd he encouraged to march to the Capitol on Jan. 6, 2021, shortly before it was v\u2026 [+3870 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Breitbart News, Breitbart News",
+        "title": "Watch Live: Donald Trump Holds Rally in Novi, Michigan",
+        "description": "Former President Donald Trump speaks to supporters at a rally in Novi, Michigan, on Saturday, October 26.\nThe post Watch Live: Donald Trump Holds Rally in Novi, Michigan appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2024-election/2024/10/26/watch-live-donald-trump-holds-rally-in-novi-michigan/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/trump-rally-fireworks-AP-640x335.jpg",
+        "publishedAt": "2024-10-26T17:04:15Z",
+        "content": "Former President Donald Trump speaks to supporters at a rally in Novi, Michigan, on Saturday, October 26."
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Wendell Huseb\u00f8, Wendell Huseb\u00f8",
+        "title": "Trump: Harris's 'Hitler,' 'Nazi' Smears Distract from Her 'Horrible' Record",
+        "description": "Former President Donald Trump condemned Vice President Kamala Harris's use of \"Hitler\" and \"Nazi\" talking points on Tuesday as a desperate attempt to distract from her record.\nThe post Trump: Harris\u2019s \u2018Hitler,\u2019 \u2018Nazi\u2019 Smears Distract from Her \u2018Horrible\u2019 Recor\u2026",
+        "url": "https://www.breitbart.com/2024-election/2024/10/29/trump-harriss-hitler-nazi-smears-distract-from-her-horrible-record/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/AP24303002874265-640x335.jpg",
+        "publishedAt": "2024-10-29T17:18:33Z",
+        "content": "Former President Donald Trump condemned Vice President Kamala Harris\u2019s use of \u201cHitler\u201d and \u201cNazi\u201d talking points on Tuesday as a desperate attempt to distract from her record.\r\nThe Harris campaign\u2019s \u2026 [+2459 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Nick Gilbertson, Nick Gilbertson",
+        "title": "Trump: Kamala Harris Is Running a Campaign of 'Absolute Hate'",
+        "description": "Former President Donald Trump said Vice President Kamala Harris is running a \"campaign of absolute hate\" and her divisive rhetoric toward him is \"shameful and really inexcusable\" after facing two assassination attempts in recent months.\nThe post Trump: Kamala\u2026",
+        "url": "https://www.breitbart.com/2024-election/2024/10/29/trump-kamala-harris-is-running-a-campaign-of-absolute-hatred/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/harris-and-trump-640x335.jpg",
+        "publishedAt": "2024-10-29T17:21:06Z",
+        "content": "Former President Donald Trump said Vice President Kamala Harris is running a \u201ccampaign of absolute hate\u201d and her divisive rhetoric toward him is \u201cshameful and really inexcusable\u201d after facing two ass\u2026 [+2352 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Wendell Huseb\u00f8, Wendell Huseb\u00f8",
+        "title": "Report: Brace for 'Unrest' if Donald Trump Wins, Democrats Warn",
+        "description": "Americans should prepare for \"unrest' if former President Donald Trump completes the greatest political comeback in modern American politics, Democrats told the Wall Street Journal on Monday.\nThe post Report: Brace for \u2018Unrest\u2019 if Donald Trump Wins, Democrats\u2026",
+        "url": "https://www.breitbart.com/2024-election/2024/10/28/brace-unrest-if-donald-trump-wins-democrats-warn/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Donald-Trump-back-Feel-the-Love-sign-ap-640x335.jpg",
+        "publishedAt": "2024-10-28T14:07:33Z",
+        "content": "Americans should prepare for \u201cunrest\u2019 if former President Donald Trump completes the greatest political comeback in modern American politics, Democrats told the Wall Street Journal on Monday.\r\nThe po\u2026 [+3026 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Joel B. Pollak, Joel B. Pollak",
+        "title": "Trump Campaign Challenges Kamala Harris to Disavow Biden's 'Garbage' Insult",
+        "description": "The Trump-Vance campaign demanded Tuesday evening that Vice President Kamala Harris \"disavow\" President Joe Biden's comment that Trump supporters were \"garbage.\"\nThe post Trump Campaign Challenges Kamala Harris to Disavow Biden\u2019s \u2018Garbage\u2019 Insult appeared fir\u2026",
+        "url": "https://www.breitbart.com/politics/2024/10/29/trump-campaign-challenges-kamala-harris-to-disavow-bidens-garbage-insult/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Kamala-Harris-looks-at-Joe-Biden-Getty-640x335.jpg",
+        "publishedAt": "2024-10-30T02:54:09Z",
+        "content": "The Trump-Vance campaign demanded Tuesday evening that Vice President Kamala Harris \u201cdisavow\u201d President Joe Biden\u2019s comment that Trump supporters were \u201cgarbage.\u201d\r\nThe comment triggered an explosive r\u2026 [+3658 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Joel B. Pollak, Joel B. Pollak",
+        "title": "Trump: 'I Will Stop the Suffering and Destruction in Lebanon'",
+        "description": "Former President Donald Trump pledged Wednesday to \"stop the suffering and destruction in Lebanon\" if elected.\nThe post Trump: \u2018I Will Stop the Suffering and Destruction in Lebanon\u2019 appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/middle-east/2024/10/30/trump-i-will-stop-the-suffering-and-destruction-in-lebanon/",
+        "urlToImage": "https://media.breitbart.com/media/2024/09/Fatima-Gate-Getty-640x335.jpg",
+        "publishedAt": "2024-10-30T19:49:35Z",
+        "content": "Former President Donald Trump pledged Wednesday to \u201cstop the suffering and destruction in Lebanon\u201d if reelected.\r\nIn a post on X (formerly Twitter), apparently aimed at Arab-American voters, Trump sa\u2026 [+4441 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "James P. Pinkerton, James P. Pinkerton",
+        "title": "Pinkerton: The Deep State vs. Elon Musk - and Donald Trump",
+        "description": "They\u2019re doing to Elon Musk in 2024 what they did to Mike Flynn in 2017.  Now as then, it\u2019s a direct challenge to the rule of law and to democratic procedure.  And yes, Donald Trump, too, is a target, albeit indirectly.\nThe post Pinkerton: The Deep State vs. E\u2026",
+        "url": "https://www.breitbart.com/tech/2024/10/26/pinkerton-the-deep-state-vs-elon-musk-and-donald-trump/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Elon-Musk-speaks-at-Trump-rally-Philadelphia-ap-640x335.jpg",
+        "publishedAt": "2024-10-26T15:39:39Z",
+        "content": "Theyre doing to Elon Musk in 2024 what they did to Mike Flynn in 2017.  Now as then, its a direct challenge to the rule of law and to democratic procedure.  And yes, Donald Trump, too, is a target, a\u2026 [+7529 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Nick Gilbertson, Nick Gilbertson",
+        "title": "Puerto Rico Senator to Officially Endorse Trump at Pennsylvania Rally",
+        "description": "Zoraida Buxo, one of Puerto Rico's nonpartisan senators, will officially endorse former President Donald Trump at his rally in Allentown, Pennsylvania, on Tuesday.\nThe post Puerto Rico Senator to Officially Endorse Trump at Pennsylvania Rally appeared first o\u2026",
+        "url": "https://www.breitbart.com/2024-election/2024/10/29/puerto-rico-senator-officially-endorse-trump-pennsylvania-rally/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/Zoraida-Buxo-640x335.jpg",
+        "publishedAt": "2024-10-29T19:39:33Z",
+        "content": "Zoraida Buxo, one of Puerto Rico\u2019s nonpartisan shadow senators, will officially endorse former President Donald Trump at his rally in Allentown, Pennsylvania, on Tuesday.\r\nNBC News\u2019s Dasha Burns was \u2026 [+2270 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Elizabeth Weibel, Elizabeth Weibel",
+        "title": "Poll: Donald Trump Leading Kamala Harris by Three Points Nationally",
+        "description": "Former President Donald Trump is leading Vice President Kamala Harris by three points nationally, according to a recent poll.\nThe post Poll: Donald Trump Leading Kamala Harris by Three Points Nationally appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2024/10/29/poll-donald-trump-leading-kamala-harris-by-three-points-nationally/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/kamala-harris-donald-trump-2024-pres-election-file-ap-photos-640x335.jpg",
+        "publishedAt": "2024-10-29T21:04:22Z",
+        "content": "Former President Donald Trump is leading Vice President Kamala Harris by three-points nationally, according to a recent poll.\r\nAn AtlasIntel poll, conducted between October 25-29, 2024 of 3,032 likel\u2026 [+1236 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Elizabeth Weibel, Elizabeth Weibel",
+        "title": "Republicans React to Biden Trashing Trump Supporters as 'Garbage'",
+        "description": "Republicans responded to President Joe Biden's comments saying the supporters of former President Donald Trump are \"garbage.\"\nThe post Republicans React to Biden Trashing Trump Supporters as \u2018Garbage\u2019 appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/politics/2024/10/29/republicans-react-biden-trashing-trump-supporters-garbage/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/1026-24-joe-biden-campaign-kamala-walz-getty-640x335.jpg",
+        "publishedAt": "2024-10-30T02:08:56Z",
+        "content": "Republicans responded to President Joe Biden\u2019s comments saying the supporters of former President Donald Trump are \u201cgarbage.\u201d\r\nBiden\u2019s comments, which were made prior to Vice President Kamala Harris \u2026 [+2952 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Pam Key, Pam Key",
+        "title": "Rubio: Milley and Kelly Are Lying About Trump",
+        "description": "Senator Marco Rubio (R-FL) said on this week's broadcast of Fox News Sunday that Mark Milley and John Kelly were lying about their recent comments about former President Donald Trump.\nThe post Rubio: Milley and Kelly Are Lying About Trump appeared first on Br\u2026",
+        "url": "https://www.breitbart.com/clips/2024/10/27/rubio-milley-and-kelly-are-lying-about-trump/",
+        "urlToImage": "https://media.breitbart.com/media/2020/03/Rubio-317-640x335.jpg",
+        "publishedAt": "2024-10-27T18:28:16Z",
+        "content": "Senator Marco Rubio (R-FL) said on this week\u2019s broadcast of Fox News Sunday that Mark Milley and John Kelly were lying about their recent comments about former President Donald Trump.\r\nRubio said, \u201cH\u2026 [+1165 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "John Nolte, John Nolte",
+        "title": "Nolte: Trump Takes Historic Poll Lead In RealClearPolitics National Average",
+        "description": "This is Trump\u2019s third run at the presidency, and never before has he held anything close to a lead in the RCP national average in the closing days of the campaign.\nThe post Nolte: Trump Takes Historic Poll Lead In RealClearPolitics National Average appeared f\u2026",
+        "url": "https://www.breitbart.com/politics/2024/10/26/nolte-trump-takes-historic-poll-lead-in-realclearpolitics-national-average/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/trump-rally-waving-47-signs-AP-640x335.jpg",
+        "publishedAt": "2024-10-26T17:55:42Z",
+        "content": "With ten days and change to go, Donald Trump has taken the lead in the RealClearPolitics (RCP) average poll of national polls.\r\nWhile he may be up by only a tenth of a point (as of this writing), wha\u2026 [+1741 chars]"
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Breitbart News, Breitbart News",
+        "title": "Watch Live: Donald Trump Rally in Traverse City, Michigan",
+        "description": "Former President Donald Trump speaks to supporters at a rally in Traverse City, Michigan, on Friday, October 25.\nThe post Watch Live: Donald Trump Rally in Traverse City, Michigan appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2024-election/2024/10/25/watch-live-donald-trump-rally-in-traverse-city-michigan/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/AP24294769043114-640x335.jpg",
+        "publishedAt": "2024-10-26T02:21:27Z",
+        "content": "Former President Donald Trump speaks to supporters at a rally in Traverse City, Michigan, on Friday, October 25."
+    },
+    {
+        "source": {
+            "id": "breitbart-news",
+            "name": "Breitbart News"
+        },
+        "author": "Breitbart News, Breitbart News",
+        "title": "Watch Live: Donald Trump Holds Rally in Green Bay, Wisconsin",
+        "description": "Former President Donald Trump speaks to supporters at a rally in Green Bay, Wisconsin, on Wednesday, October 30.\nThe post Watch Live: Donald Trump Holds Rally in Green Bay, Wisconsin appeared first on Breitbart.",
+        "url": "https://www.breitbart.com/2024-election/2024/10/30/watch-live-donald-trump-holds-rally-in-green-bay-wisconsin-2/",
+        "urlToImage": "https://media.breitbart.com/media/2024/10/trump-rally-flag-screen-AP-640x335.jpg",
+        "publishedAt": "2024-10-30T23:19:42Z",
+        "content": "Former President Donald Trump speaks to supporters at a rally in Green Bay, Wisconsin, on Wednesday, October 30."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Raw Story"
+        },
+        "author": "Brad Reed",
+        "title": "Trump 'would like to be a dictator': Ex-Apprentice exec",
+        "description": "Yet another former associate of former President Donald Trump is now openly saying that he would like to be a dictator.In an interview with Vanity Fair's Gabriel Sherman, John D. Miller, a former executive at NBC, spoke more about the major regret he feels fo\u2026",
+        "url": "https://www.rawstory.com/trump-fascism-2669505700/",
+        "urlToImage": "https://www.rawstory.com/media-library/republican-presidential-nominee-and-former-u-s-president-donald-trump-holds-a-campaign-rally-in-reno-nevada-u-s-october-11.jpg?id=53809984&width=1200&height=600&coordinates=0%2C190%2C0%2C190",
+        "publishedAt": "2024-10-29T18:17:09Z",
+        "content": "Yet another former associate of former President Donald Trump is now openly saying that he would like to be a dictator.\r\nIn an interview with Vanity Fair's Gabriel Sherman, John D. Miller, a former e\u2026 [+1615 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Raw Story"
+        },
+        "author": "David McAfee",
+        "title": "Watch: Trump speaks in Pennsylvania just days away from election",
+        "description": "Donald Trump just took the stage in Pennsylvania for a campaign rally just days from the end of the election.\n\nThe former president spoke in the swing state shortly after Michelle Obama gave a speech while campaigning for Vice President Kamala Harris.\n\nALSO R\u2026",
+        "url": "https://www.rawstory.com/trump-rally-pennsylvania-election-end/",
+        "urlToImage": "https://www.rawstory.com/media-library/donald-trump-jim-watson-afp.png?id=52483018&width=1200&height=600&coordinates=0%2C65%2C0%2C65",
+        "publishedAt": "2024-10-26T21:44:08Z",
+        "content": "Donald Trump just took the stage in Pennsylvania for a campaign rally just days from the end of the election.\r\nThe former president spoke in the swing state shortly after Michelle Obama gave a speech\u2026 [+198 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Raw Story"
+        },
+        "author": "Tom Boggioni",
+        "title": "Morning Joe laughs off Trump world's meltdown over 'garbage' comment",
+        "description": "On Wednesday morning, MSNBC host Joe Scarborough laughed off the meltdown Donald Trump and his supporters are having over comments made by President Joe Biden that they believe labeled all of his followers as garbage.The segment kicked off with \"Morning Joe\" \u2026",
+        "url": "https://www.rawstory.com/trump-garbage-2669538569/",
+        "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=54060038&width=1200&height=600&coordinates=0%2C11%2C0%2C12",
+        "publishedAt": "2024-10-30T11:15:14Z",
+        "content": "On Wednesday morning, MSNBC host Joe Scarborough laughed off the meltdown Donald Trump and his supporters are having over comments made by President Joe Biden that they believe labeled all of his fol\u2026 [+1696 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Raw Story"
+        },
+        "author": "Agence France-Presse",
+        "title": "Harris to rally where Trump riled Capitol riot crowd",
+        "description": "Kamala Harris will urge Americans to turn the page on Donald Trump as she delivers her closing election argument Tuesday on the spot where her rival rallied supporters before the January 6, 2021 US Capitol attack.With polls in a dead heat exactly one week bef\u2026",
+        "url": "https://www.rawstory.com/harris-to-rally-where-trump-riled-capitol-riot-crowd/",
+        "urlToImage": "https://www.rawstory.com/media-library/vice-president-kamala-harris-saul-loeb-afp.jpg?id=53847363&width=1200&height=600&coordinates=0%2C25%2C0%2C26",
+        "publishedAt": "2024-10-29T10:11:30Z",
+        "content": "Kamala Harris will urge Americans to turn the page on Donald Trump as she delivers her closing election argument Tuesday on the spot where her rival rallied supporters before the January 6, 2021 US C\u2026 [+3395 chars]"
     },
     {
         "source": {
@@ -4503,974 +4984,493 @@
             "name": "BBC News"
         },
         "author": null,
-        "title": "What are recess appointments and how will Trump administration picks be vetted?",
-        "description": "Many will go through a lengthy Senate vetting process before they serve in the Trump administration",
-        "url": "https://www.bbc.com/news/articles/cvg7r5e3gz7o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34ae/live/c01be7d0-a237-11ef-8c39-91ac0e240387.jpg",
-        "publishedAt": "2024-11-14T03:49:34Z",
-        "content": "Donald Trump has announced many picks this week to join his administration when he becomes US president in January. \r\nBut those personnel decisions aren't automatic.\r\nEven with the backing of the fut\u2026 [+3802 chars]"
+        "title": "What does MAGA mean to these Trump supporters?",
+        "description": "At Madison Square Garden arena, we asked what 'make America great again' really means.",
+        "url": "https://www.bbc.com/news/videos/c5yrrz98ek4o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fcad/live/088cf3d0-94a3-11ef-9504-b516e8b5f45f.jpg",
+        "publishedAt": "2024-10-27T21:39:52Z",
+        "content": "At Madison Square Garden arena in New York City on Sunday, thousands gathered to see former president Donald Trump speak. With 'make America great again' hats and T-shirts everywhere, we asked some a\u2026 [+59 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Looking at the road to victory in Pennsylvania for Trump and Harris",
+        "description": "CBS News' Battleground Tracker currently has the race in Pennsylvania between former President Donald Trump and Vice President Kamala Harris marked as a toss-up. CBS News correspondent Jarred Hill has a look at both candidates' prospects in the Keystone State.",
+        "url": "https://www.cbsnews.com/video/looking-at-the-road-to-victory-in-pennsylvania-for-trump-and-harris/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/29/b9c13173-ef1b-4d43-b0b5-472a4ed7d0d0/thumbnail/1200x630/a7c93b2d15cd493542acc23ab8950d60/cbsn-fusion-looking-at-the-road-to-victory-in-pennsylvania-for-trump-and-harris-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T16:12:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Trump sticks to usual talking points, Harris to speak at Ellipse about turning the page",
+        "description": "Former President Donald Trump addressed some top voter issues while delivering remarks in Florida. This comes on the day Vice President Kamala Harris plans to deliver her closing remarks from the Ellipse park south of the White House. CBS News campaign report\u2026",
+        "url": "https://www.cbsnews.com/video/trump-sticks-to-usual-talking-points-harris-will-push-to-turn-the-page/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/29/534b2bc5-a94b-41d0-b93f-92d524251490/thumbnail/1200x630/140d8130dff46ceaf73fc6b0e2871b15/cbsn-fusion-trump-sticks-to-usual-talking-points-harris-will-push-to-turn-the-page-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T19:33:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Trump aide Steve Bannon released from prison after 4 months behind bars for contempt",
+        "description": "Trump aide Steve Bannon was released from federal prison Tuesday, a spokesperson for the federal Bureau of Prisons confirmed to CBS News. The former Trump campaign CEO served a four-month sentence after defying a subpoena from a congressional committee that i\u2026",
+        "url": "https://www.cbsnews.com/video/steve-bannon-released-from-prison-after-4-months-behind-bars-for-contempt-conviction/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/29/0244c75b-5a69-4def-8172-9967cdc365d2/thumbnail/1200x630/02e5ba0d3dadcbdcd52577c49525b820/cbsn-fusion-steve-bannon-released-from-prison-after-4-months-behind-bars-for-contempt-conviction-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T12:19:18Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
         },
         "author": null,
-        "title": "Trump allies make WW3 warning over Biden missile move in Ukraine",
-        "description": "It is not clear if Biden's decision will be endorsed by Donald Trump who has promised to end the Ukraine war.",
-        "url": "https://www.bbc.com/news/articles/cdrdmkxy7xmo",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be22/live/30ff16b0-a5cc-11ef-bdf5-b7cb2fa86e10.jpg",
-        "publishedAt": "2024-11-18T16:48:03Z",
-        "content": "President Joe Biden's apparent green light for Ukraine to strike Russia with US-made long-range missiles has caused consternation among Donald Trump's allies.\r\nTrump himself has not commented, but he\u2026 [+3971 chars]"
+        "title": "Musk says people accusing Trump of endangering democracy are the real danger",
+        "description": "At a town hall in Pennsylvania, tech mogul Elon Musk played down the Jan. 6, 2021 assault on the U.S. Capitol.",
+        "url": "https://www.cbsnews.com/news/elon-musk-downplays-jan-6-2021-attack-trump/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/27/4ae8d3b2-a18a-4f73-b4b2-c10deb6b3aff/thumbnail/1200x630g7/f145dcdde376c0c100fb6472932a8ca8/gettyimages-2180575078.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-27T16:44:56Z",
+        "content": "The world's richest man, Elon Musk, addressed a crowded town hall Saturday in Lancaster County, Pennsylvania, where he downplayed the Jan. 6 U.S. Capitol riot and suggested mail ballots were a \"recip\u2026 [+4556 chars]"
     },
     {
         "source": {
-            "id": "buzzfeed",
-            "name": "Buzzfeed"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Alexa Lisitza",
-        "title": "Gay Men Are Dragging J.D. Vance After He Said He Wouldn't Be Surprised If He And Trump Won \"The Normal Gay Guy Vote\"",
-        "description": "What exactly is a \"normal gay guy vote\"?View Entire Post \u203a",
-        "url": "https://www.buzzfeed.com/alexalisitza/reactions-jd-vance-normal-gay-comment",
-        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/1/21/enhanced/417fdd057af7/original-6928-1730494815-3.jpg?crop=3008:1575;0,0%26downsize=1250:*",
-        "publishedAt": "2024-11-04T13:02:02Z",
-        "content": "As someone who has been classified as a normal gay guy by conservatives my whole life, absolutely not. The gay men voting for Trump are just like him: theyre miserable, vain, attention seeking, self-\u2026 [+138 chars]"
+        "author": "CBS News",
+        "title": "CBS News poll finds large gender gap between Harris, Trump supporters",
+        "description": "New CBS News polling finds a 21-point gender gap in the presidential race, with Vice President Kamala Harris leading with women by 12 points while former President Donald Trump leading with men by 9 points. CBS News executive director of elections and surveys\u2026",
+        "url": "https://www.cbsnews.com/video/large-gender-gap-harris-trump-supporters-poll/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/28/ea12c89c-120c-44bd-acaf-00f8a36d61d4/thumbnail/1200x630/49aab991797378ca2a0f7eb4186838c6/cbsn-fusion-large-gender-gap-harris-trump-supporters-poll-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T22:53:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": "buzzfeed",
-            "name": "Buzzfeed"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Alice Lahoda",
-        "title": "If You Guess 5 Extremely Tricky Trivia Questions About The United States, We'll Reveal A Fact About Trump That You REALLY Need To Know",
-        "description": "Many people are saying this is the most important quiz you'll ever take.View Entire Post \u203a",
-        "url": "https://www.buzzfeed.com/alicelahoda/us-trivia-trump-fact",
-        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/5/22/enhanced/75f199c80344/original-1271-1730846559-2.jpg?crop=1245:652;0,0%26downsize=1250:*",
-        "publishedAt": "2024-11-05T22:47:37Z",
-        "content": "Make your vote count! Learn more about how to register, important deadlines, and your state's mail-in voting options here. For more on the 2024 election, check out coverage on BuzzFeed, HuffPost, and\u2026 [+9 chars]"
+        "author": "CBS News",
+        "title": "Sen. Rick Scott denounces anti-Puerto Rico comment at Trump rally",
+        "description": "Derogatory comments directed at Puerto Rico from former President Donald Trump's Madison Square Garden Rally have sparked outrage from both sides of the aisle. Political strategists Chuck Rocha and Bryan Lanza join \"America Decides\" to discuss the fallout.",
+        "url": "https://www.cbsnews.com/video/rick-scott-denounces-anti-puerto-rico-comment-trump-rally/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/28/c8f18562-decd-4ad4-9354-c3025a42f9d4/thumbnail/1200x630/4afafa3017be1a41cb4db6931d56566c/cbsn-fusion-rick-scott-denounces-anti-puerto-rico-comment-trump-rally-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T22:55:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": "buzzfeed",
-            "name": "Buzzfeed"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Alana Valko",
-        "title": "A Woman Went Viral For Asking If Other Women Also Woke Up In The Dead Of Night As Trump Was Elected, And Literally, Everyone Did",
-        "description": "I need to know if you did, too.View Entire Post \u203a",
-        "url": "https://www.buzzfeed.com/alanavalko/women-election-night-viral-tiktok",
-        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/12/18/enhanced/016e8fd488ab/original-579-1731437789-5.jpg?crop=2999:1575;0,0%26downsize=1250:*",
-        "publishedAt": "2024-11-12T20:24:04Z",
-        "content": "Make your vote count! Learn more about how to register, important deadlines, and your state's mail-in voting options here. For more on the 2024 election, check out coverage on BuzzFeed, HuffPost, and\u2026 [+9 chars]"
+        "author": "Libby Cathey",
+        "title": "DNC projects message tying Trump to Hitler on MSG during rally",
+        "description": "Sunday marks the first time the DNC is projecting counterprogramming onto a building while Trump will be inside it, but it's far from the first time Democrats have deployed the technique.",
+        "url": "https://www.cbsnews.com/news/trump-madison-square-garden-rally-dnc-projections/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/27/113f3b1b-50fc-4a44-bfe6-0ac5c63e0c8b/thumbnail/1200x630/215d500e2ffe3fb7a33b9a1df8b43d22/original-0cda769a-6b6f-4f98-9905-ed717cf164f3.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-27T23:11:00Z",
+        "content": "Campaign 2024 comes to NYC with Trump rally at MSG \r\nCampaign 2024 comes to NYC with Trump rally at MSG02:18\r\nThe Democratic National Committee is projecting digital messages on Madison Square Garden\u2026 [+4233 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Gully Singh",
-        "title": "'I was more excited to fight before Spiderman than Trump'",
-        "description": "Paul Craig says he was more excited by \"fighting in front of Spiderman\" than he would be Donald Trump as the Scot prepares to meet Bo Nickal at Madison Square Garden.",
-        "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cy9j5npdxz5o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/07cb/live/66867aa0-a1b0-11ef-a749-450a431fa365.jpg",
-        "publishedAt": "2024-11-13T11:22:26Z",
-        "content": "Paul Craig says he was more excited by \"fighting in front of Spiderman\" than he would be Donald Trump as the Scot prepares to meet Bo Nickal at Madison Square Garden as part of UFC 309.\r\nCraig, 36, t\u2026 [+866 chars]"
+        "author": "CBS News",
+        "title": "Trump campaign continues to face backlash over Madison Square Garden rally",
+        "description": "While campaigning Tuesday, former President Donald Trump did not apologize for the racist and vile comments that were said at his Madison Square Garden rally on Sunday, and instead said it was \"an honor\" to be part of the event. Trump Tuesday night was holdin\u2026",
+        "url": "https://www.cbsnews.com/video/trump-campaign-continues-to-face-backlash-over-madison-square-garden-rally/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/29/ad5d4dea-392d-4368-aef0-c1ec0a3bef19/thumbnail/1200x630/39166a268cb66efebbe4291d2661f7c4/1029-en-chb.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T23:28:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "BBC Sport",
-        "title": "Robertson beats Trump to make Champion of Champions semis",
-        "description": "Neil Robertson claims a 6-4 win over world number one Judd Trump to move into the semi-finals of the Champion of Champions.",
-        "url": "https://www.bbc.com/sport/snooker/articles/ckgvm87eyg4o",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/6898/live/00418660-a212-11ef-b45b-151e96b4a59c.jpg",
-        "publishedAt": "2024-11-13T23:42:16Z",
-        "content": "Neil Robertson claimed a 6-4 win over world number one Judd Trump to move into the semi-finals of the Champion of Champions in Bolton.\r\nEngland's Trump took the opener with a run of 69 but Robertson \u2026 [+689 chars]"
+        "author": "CBS News",
+        "title": "Significance of Harris' closing argument at park where Trump spoke before Jan. 6 attack",
+        "description": "Vice President Kamala Harris will deliver her closing argument Tuesday night at the same location where former President Donald Trump spoke on Jan. 6, 2021, and told his supporters the 2020 election was stolen. CBS News chief election and campaign corresponde\u2026",
+        "url": "https://www.cbsnews.com/video/significance-harris-closing-argument-park-trump-spoke-before-jan-6-attack/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/29/5d014dc9-eb8a-441f-89d4-9f623e78e829/thumbnail/1200x630/237171bb063c90df6c527c74586fa071/cbsn-fusion-significance-harris-closing-argument-park-trump-spoke-before-jan-6-attack-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T23:37:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "tporter@businessinsider.com (Tom Porter)",
-        "title": "6 telling moments from Putin's first speech since Trump won",
-        "description": "An emboldened Russian President Vladimir Putin made some pointed remarks during the Valdai Forum in Sochi, Russia.",
-        "url": "https://www.businessinsider.com/six-telling-moments-putin-speech-valdai-congratulated-trump-china-ukraine-2024-11",
-        "urlToImage": "https://i.insider.com/672def5c192f52589856e29c?width=1024&format=jpeg",
-        "publishedAt": "2024-11-08T13:15:29Z",
-        "content": "Russian President Vladimir Putin on Thursday congratulated Donald Trump on his US election victory in a wide-ranging speech that was followed by a three-hour marathon question and answer session.\r\nPu\u2026 [+5163 chars]"
+        "author": "CBS News",
+        "title": "What Harris and Trump are doing 1 week out from Election Day",
+        "description": "With one week until Election Day, Vice President Kamala Harris will lay out her campaign's closing argument during a speech at the Ellipse in Washington, D.C. Meanwhile, former President Donald Trump will be in Allentown, Pennsylvania, where Latino voters in \u2026",
+        "url": "https://www.cbsnews.com/video/what-harris-trump-are-doing-1-week-out-election-day/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/29/66c6ae18-826d-4575-ae2e-422d0d2f00b1/thumbnail/1200x630/d20c10dd50fa2900f44669d7823ff969/cbsn-fusion-what-harris-trump-are-doing-1-week-out-election-day-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T22:54:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Jeff Kauflin, Forbes Staff, \n Jeff Kauflin, Forbes Staff\n https://www.forbes.com/sites/jeffkauflin/",
-        "title": "What Trump Means For Fintech",
-        "description": "From banking charters and bank-fintech partnerships to the Consumer Financial Protection Bureau, here\u2019s how Trump\u2019s win will likely affect the fintech industry.",
-        "url": "https://www.forbes.com/sites/jeffkauflin/2024/11/06/what-trump-means-for-fintech/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672bd7b82d33561df6bf040a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-06T22:04:51Z",
-        "content": "Trump's win will have important consequences for the fintech industry.\r\nAP Photo/Evan Vucci\r\nDonald Trumps presidential victory and Republicans gains in Congress will undoubtedly have implications fo\u2026 [+6878 chars]"
+        "author": "Kaia Hubbard",
+        "title": "Harris says she'd take a cognitive test; challenges Trump \"to take the same one\"",
+        "description": "Vice President Kamala Harris, responding to former President Donald Trump's claims about her IQ, said she would take a cognitive test \u2014 and \"would challenge him to take the same one.\"",
+        "url": "https://www.cbsnews.com/news/kamala-harris-interview-norah-odonnell-interview-cognitive-test/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/28/090fea8c-0cb7-4898-9e9a-fe3e13ef3283/thumbnail/1200x630/caa385b5dcc9c8b947fcc39afd7b9e1b/1028-cmo-nod.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T13:29:25Z",
+        "content": "Vice President Kamala Harris, responding to former President Donald Trump's claims about her IQ, said she would take a cognitive test \u2014 and \"would challenge him to take the same one.\"\r\n\"This is what \u2026 [+3535 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Variety"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Varietyschneider",
-        "title": "Jimmy Kimmel Surprised That Bombshell Jeffrey Epstein Tapes About Trump Friendship Aren\u2019t Getting More Attention",
-        "description": "In a series of newly-released tapes posted this weekend by the Daily Beast, convicted pedophile Jeffrey Epstein is heard speaking with author Michael Wolff about his relationship with Donald Trump. In the recordings, Epstein tells Wolff that he was Trump\u2019s be\u2026",
-        "url": "https://variety.com/2024/tv/news/jimmy-kimmel-jeffrey-epstein-tapes-trump-friendship-1236200783/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/11/GettyImages-1154615740-e1730786964907.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2024-11-05T07:07:03Z",
-        "content": "In a series of newly-released tapes posted this weekend by the Daily Beast, convicted pedophile Jeffrey Epstein is heard speaking with author Michael Wolff about his relationship with Donald Trump. I\u2026 [+2740 chars]"
+        "author": "CBS News",
+        "title": "Biden reacts to racist, offensive comments at Trump Madison Square Garden rally",
+        "description": "President Biden cast his ballot in Delaware and reacted to offensive and racist comments made at a Donald Trump rally at Madison Square Garden. Mr. Biden called the comments \"embarrassing\" while speaking to reporters, and he also pressed for an Israel-Hamas c\u2026",
+        "url": "https://www.cbsnews.com/video/biden-reacts-to-trump-rally-comment-being-called-racist-offensive/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/28/b64d8e22-e36c-4e38-818a-2ce3d659cced/thumbnail/1200x630/7cad1c731f130a55ba35e683d0a20bf0/cbsn-fusion-biden-reacts-to-trump-rally-comment-being-called-racist-offensive-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T18:50:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Variety"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Todd Spangler",
-        "title": "Trump May Increase Opportunity for \u2018Needed\u2019 Industry Consolidation, Warner Bros. Discovery CEO David Zaslav Says",
-        "description": "Warner Bros. Discovery chief David Zaslav expressed hope president-elect Donald Trump will make changes and put policies in place that would ease media-industry consolidation \u2014 which he said would be \u201ca real positive.\u201d Referring to Trump\u2019s election victory, Z\u2026",
-        "url": "https://variety.com/2024/biz/news/trump-david-zaslav-warner-bros-discovery-increase-consolidation-1236203613/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/11/Zaslav-Trump.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2024-11-07T14:29:55Z",
-        "content": "Warner Bros. Discovery chief David Zaslav expressed hope president-elect Donald Trump will make changes and put policies in place that would ease media-industry consolidation \u2014 which he said would be\u2026 [+2284 chars]"
+        "author": "CBS News",
+        "title": "Latest news on China's efforts to hack Trump, Vance and Harris campaign",
+        "description": "Federal officials say China-backed cybercriminals may be behind efforts to hack phones or networks used by former President Donald Trump and running mate JD Vance. The hackers may have also targeted Vice President Kamala Harris' campaign. CBS News' Nicole Sga\u2026",
+        "url": "https://www.cbsnews.com/video/latest-news-on-chinas-efforts-to-hack-trump-vance-and-harris-campaign-2/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/865b19f9-1fdf-433a-84ba-0cff64105d66/thumbnail/1200x630/ba716f7e8e778d222038d0f280e808ea/cbsn-fusion-latest-news-on-chinas-efforts-to-hack-trump-vance-and-harris-campaign-2-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T21:02:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "Nevada 2024 Trump-Harris Polls: Trump Holds Razor-Thin Advantage\u2014As Harris Struggles With Latinos",
-        "description": "Nevada has voted for Democrats in every presidential election since 2008.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/nevada-2024-trump-harris-polls-trump-holds-razor-thin-advantage-as-harris-struggles-with-latinos/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672112b5f1591eb0f2505954/0x0.jpg?format=jpg&crop=3114,1752,x0,y286,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-04T17:22:49Z",
-        "content": "Vice President Kamala Harris and former President Donald Trump are essentially tied in Nevada in what could be the final pre-election swing state survey, though Trump has a slight advantage in pollin\u2026 [+4743 chars]"
+        "author": "CBS News",
+        "title": "Final push in 2024 election: Trump and Harris neck-and-neck with 8 days to go",
+        "description": "With Election Day eight days away, the CBS News poll shows a close race between former President Donald Trump and Vice President Kamala Harris. Both candidates delivered closing arguments, with Trump holding a rally at Madison Square Garden, and Harris campai\u2026",
+        "url": "https://www.cbsnews.com/video/final-push-in-2024-election-trump-and-harris-neck-and-neck-with-8-days-to-go/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/28/879fdae4-1b43-4dcd-8f1d-993d8a3b503b/thumbnail/1200x630/48f16e4ad1d1aa8b9421cd86ac736693/1028-cmo-campaigns-costa.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T14:19:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "Georgia 2024 Trump-Harris Polls: Trump (Barely) Ahead In Most Final Surveys",
-        "description": "Biden was the first Democratic presidential candidate to win Georgia since 1992.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/georgia-2024-trump-harris-polls-trump-barely-ahead-in-most-final-surveys/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6704190ebf10232404c5e121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-04T15:38:25Z",
-        "content": "Former President Donald Trump has erased Vice President Kamala Harris brief lead in Georgia in polling averages shortly after her late entrance into the race, as he aims to flip the state after losin\u2026 [+4274 chars]"
+        "author": "CBS News",
+        "title": "Trump campaign distancing itself from comedian's comments at divisive Madison Square Garden rally",
+        "description": "Former President Donald Trump laid out his vision for America Sunday at a rally in New York's Madison Square Garden. The rally featured offensive remarks from surrogates like comedian Tony Hinchcliffe, who called Puerto Rico an \"island of garbage.\" The Trump \u2026",
+        "url": "https://www.cbsnews.com/video/trump-campaign-distancing-itself-from-comedians-comments-at-madison-square-garden-rally/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/28/af726c8d-dce4-4b48-9f67-54812af3b054/thumbnail/1200x630/dfea0882368c71bd675df76bfb640d52/trumptony.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T12:58:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "Michigan 2024 Trump-Harris Polls: Trump Leads In Latest Survey\u2014But Race Remains Tight",
-        "description": "Biden flipped Michigan in the 2020 election.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/michigan-2024-trump-harris-polls-trump-leads-in-latest-survey-but-race-remains-tight/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67237c6a30e200555382b3b3/0x0.jpg?format=jpg&crop=4690,2637,x0,y191,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-10-31T12:48:10Z",
-        "content": "Former President Donald Trump leads Vice President Kamala Harris in Michigan in the latest survey, but Harris has a slight advantage in three other polls released this weekindicating the race remains\u2026 [+6747 chars]"
+        "author": "Scott MacFarlane",
+        "title": "Candidates for Congress seize on comments stemming from Trump rally \"garbage\" joke",
+        "description": "Since comedian Tony Hinchcliffe told a racist joke about Puerto Ricans at a rally for Donald Trump Sunday, congressional candidates have been trying to use the comment to their advantage.",
+        "url": "https://www.cbsnews.com/news/trump-rally-puerto-rico-garbage-comment-congress-races/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/30/9bde90ee-1809-49f7-baa6-880597ea1feb/thumbnail/1200x630g6/bf3857f0823b46d42d354536c0fe920f/gettyimages-2180818451.jpg?v=da20036415aedcaca28a32ffe615549e",
+        "publishedAt": "2024-10-30T21:01:06Z",
+        "content": "In the home stretch of the 2024 election, after a racist comment at a Trump rally comparing Puerto Rico to garbage, both parties are trying to fan political flames to burn the opposition on congressi\u2026 [+3154 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Molly Bohannon, Forbes Staff, \n Molly Bohannon, Forbes Staff\n https://www.forbes.com/sites/mollybohannon/",
-        "title": "Trump Says He Has No Intention Of Selling Trump Media Shares",
-        "description": "Trump said \u201cfake, untrue, and probably illegal rumors\u201d that he is seeking to sell his shares of Trump Media & Technology Group are false and called for people saying that to be investigated.",
-        "url": "https://www.forbes.com/sites/mollybohannon/2024/11/08/trump-says-he-has-no-intention-of-selling-trump-media-shares/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672d263f4f5340928d628888/0x0.jpg?format=jpg&crop=2522,1418,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-08T16:47:46Z",
-        "content": "President-elect Donald Trump said on social media Friday he has no intention of selling his shares of Trump Media &amp; Technology Group, Truth Socials parent company, despite rumors and false statem\u2026 [+3682 chars]"
+        "author": "CBS News",
+        "title": "Judge extends Bucks County mail-in voting deadline after Trump lawsuit",
+        "description": "Voters in Bucks County, Pennsylvania, now have until Friday to apply for or receive a mail-in ballot after the Trump campaign filed a lawsuit alleging some who sought a ballot were turned away. CBS News correspondent Natalie Brand has the details. Then, Democ\u2026",
+        "url": "https://www.cbsnews.com/video/judge-extends-bucks-county-mail-in-voting-deadline-trump-lawsuit/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/30/a320d90d-e1c0-42b0-bba2-eaba9adcb222/thumbnail/1200x630/75e446b216df34202dad14333ecf2e63/cbsn-fusion-judge-extends-bucks-county-mail-in-voting-deadline-trump-lawsuit-thumbnail.jpg?v=da20036415aedcaca28a32ffe615549e",
+        "publishedAt": "2024-10-30T22:37:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
-        "title": "Arizona 2024 Trump-Harris Polls: Trump Maintains Lead In Latest Survey",
-        "description": "President Joe Biden narrowly won the battleground state in 2020 over Trump, who sought to overturn election results in the state.",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/11/03/arizona-2024-trump-harris-polls-trump-maintains-lead-in-latest-survey/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670abf3927a43f3f2d89511a/0x0.jpg?format=jpg&crop=3920,2613,x0,y19,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-03T15:30:16Z",
-        "content": "Former President Donald Trump has a four-point lead over Vice President Kamala Harris in Arizona in a new New York Times swing state surveyrepresenting his widest lead of any battleground polled.\r\nTr\u2026 [+4190 chars]"
+        "author": "CBS News",
+        "title": "Kamala Harris warns of \"chaos and division\" in a second Trump term",
+        "description": "With the Capitol and White House behind her, Vice President Kamala Harris presented a vision for unity, warning against what she describes as a dangerous return to a Trump presidency.",
+        "url": "https://www.cbsnews.com/video/kamala-harris-warns-of-chaos-and-division-in-a-second-trump-term/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/30/1c98701b-e7c9-462c-b77e-543135b59be5/thumbnail/1200x630/823c69b1e4c816b2946f87291911ae30/1030-cmoplus-harrisclosing-okeefe.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-30T14:40:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
-        "title": "Billionaire Trump Critic Mark Cuban Congratulates Trump As Elon Musk Boasts\u2014Before AP Calls A Winner",
-        "description": "Elon Musk has spent millions aiding Trump's 2024 bid.",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/11/06/billionaire-trump-critic-mark-cuban-congratulates-trump-as-elon-musk-boasts-before-ap-calls-a-winner/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672afcf079667efff9e97cf3/0x0.jpg?format=jpg&crop=3946,2633,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-06T07:23:38Z",
-        "content": "Billionaire critic Mark Cuban congratulated Donald Trump while pro-Trump Tesla chief Elon Musk boasted about the former president as he took leads in every swing state Tuesday nightthough the electio\u2026 [+2737 chars]"
+        "author": "CBS News",
+        "title": "Biden appears to call Trump supporters \"garbage,\" White House says he meant comedian's rhetoric",
+        "description": "On a video call with Latino activists Tuesday evening, President Biden appeared to call former President Donald Trump's supporters \"garbage\" as he talked about comedian Tony Hinchcliffe's Puerto Rico comments at Trump's Madison Square Garden rally over the we\u2026",
+        "url": "https://www.cbsnews.com/video/biden-appears-to-call-trump-supporters-garbage/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/30/5a23c0a1-12be-49e6-861d-da20b2f07df7/thumbnail/1200x630/4665969812a16037d53f0503b564dc25/cbsn-fusion-biden-appears-to-call-trump-supporters-garbage-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-30T13:12:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
-        "title": "Can Trump Fire Jerome Powell? Fed Chairman Says He Won\u2019t Resign If Trump Asks",
-        "description": "Powell, who was appointed by Trump in 2017, will end his term as the Federal Reserve\u2019s chairman in 2026.",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/11/07/can-trump-fire-jerome-powell-fed-chairman-says-he-wont-resign-if-trump-asks/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672d61bb918feb24d89310eb/0x0.jpg?format=jpg&crop=2657,1770,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-08T01:12:33Z",
-        "content": "Federal Reserve Chairman Jerome Powell told reporters Thursday he would not step down from his appointed position if Donald Trump asked him to, saying hed have no obligation to leave if the president\u2026 [+2661 chars]"
+        "author": "CBS News",
+        "title": "FBI investigating hackers who targeted cellphones used by Trump, JD Vance",
+        "description": "The FBI is investigating after Chinese government-linked hackers targeted cellphones used by former President Donald Trump and his running mate, JD Vance. CBS News has learned they also targeted the phones or networks used by members of Vice President Kamala \u2026",
+        "url": "https://www.cbsnews.com/video/fbi-investigating-hackers-who-targeted-cellphones-used-by-trump-jd-vance/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/26/79a48176-ec3d-4b32-9d0f-55ab872d1921/thumbnail/1200x630/47b84b08e6cacdc3c4b21a72e8b0a6d1/1026-satmo-macfarlane-china-3293779-640x360.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-26T14:53:45Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Alex Knapp, Forbes Staff, \n Alex Knapp, Forbes Staff\n https://www.forbes.com/sites/alexknapp/",
-        "title": "InnovationRx: Trump Win Brings Uncertainty To Healthcare",
-        "description": "Plus: How AI can help cancer patients avoid unnecessary chemotherapies and make it easier to understand your dental X-rays.",
-        "url": "https://www.forbes.com/sites/innovationrx/2024/11/06/innovationrx-trump-win-brings-uncertainty-to-healthcare/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672bfd3dcc19ed1080e9cb33/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-06T23:56:41Z",
-        "content": "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here. \r\nAFP via Getty Images\r\nDonald Trump is now the second person in American history to win two non-consec\u2026 [+6353 chars]"
+        "author": "CBS News",
+        "title": "Racist comments at Trump NYC rally, Michelle Obama makes case for Harris",
+        "description": "Reactions to insults hurled at Donald Trump's Madison Square Garden rally are still emerging as the former president heads to Georgia to campaign. This comes as Vice President Kamala Harris makes a trip to the battleground state of Michigan after appearing at\u2026",
+        "url": "https://www.cbsnews.com/video/racist-comments-at-trump-nyc-rally-michelle-obama-makes-case-for-harris/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/11c08e6b-f25c-49aa-9e0e-a1cb2729b827/thumbnail/1200x630/03b5bca44516940abeca00fe22bc527f/cbsn-fusion-racist-comments-at-trump-nyc-rally-michelle-obama-makes-case-for-harris-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T18:11:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "Trump Allies Ramaswamy, Jordan Downplay Revenge Threats",
-        "description": "Trump has threatened on more than 100 occasions to use his powers as president to go after his political rivals.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/11/10/trump-allies-ramaswamy-jordan-downplay-revenge-threats/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672bdfb43c64e0817e7c3f6b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-10T18:42:25Z",
-        "content": "President-elect Donald Trumps allies suggested Sunday his repeated threats to go after his adversariesfrom prosecutors who have brought cases against him to former allies turned criticswont come to f\u2026 [+3921 chars]"
+        "author": "CBS News",
+        "title": "D.C. Ellipse park where Harris is speaking today has Trump connection",
+        "description": "Vice President Kamala Harris will deliver her closing argument before the 2024 election in Washington, D.C., where she will speak from the Ellipse, the park south of the White House where former President Donald Trump addressed his followers before the Jan. 6\u2026",
+        "url": "https://www.cbsnews.com/video/dc-ellipse-park-where-harris-is-speaking-today-has-trump-connection/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/29/5278b226-8b11-4b71-a975-1f8084576454/thumbnail/1200x630/11ed60bb2470049c4c7b5e8eeed6e22b/cbsn-fusion-dc-ellipse-park-where-harris-is-speaking-today-has-trump-connection-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T18:37:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "insider@insider.com (John L. Dorman,Brent D. Griffiths)",
-        "title": "Trump wins Pennsylvania, the most important swing state in the 2024 election",
-        "description": "Pennsylvania and its 19 electoral votes were widely considered to be the most likely tipping point in the race between Kamala Harris and Donald Trump.",
-        "url": "https://www.businessinsider.com/pennsylvania-election-results-trump-harris-blue-wall-2024-11",
-        "urlToImage": "https://i.insider.com/672b0c0888cea3ba1c1e9a5d?width=1200&format=jpeg",
-        "publishedAt": "2024-11-06T07:06:12Z",
-        "content": "Former President Donald Trump has won Pennsylvania, the pivotal swing state that was the most coveted state on the electoral map this year.\r\nWith this victory, called by Fox News, CNN, and NBC News e\u2026 [+1352 chars]"
+        "author": "CBS News",
+        "title": "Trump campaign adviser says comedian's jokes were ad-libbed at Madison Square Garden rally",
+        "description": "Former President Donald Trump's campaign is still trying to distance itself from the offensive comments and jokes made by comedian Tony Hinchcliffe at Trump's Madison Square Garden rally. CBS News campaign reporter Libby Cathey has more.",
+        "url": "https://www.cbsnews.com/video/trump-campaign-adviser-says-comedians-jokes-were-ad-libbed-at-madison-square-garden-rally/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/29/1d875f1f-ac8a-4dfe-a129-542c6668d9b2/thumbnail/1200x630/c1b26375efa2b243e53485c6bbfaa44f/cbsn-fusion-trump-campaign-adviser-says-comedians-jokes-were-ad-libbed-at-madison-square-garden-rally-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T13:09:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "pkafka@insider.com (Peter Kafka)",
-        "title": "Warner Bros. Discovery CEO David Zaslav thinks Trump will let him consolidate",
-        "description": "Donald Trump 2.0 \"may offer a pace of change, and an opportunity for consolidation,\" Warner Bros. Discovery CEO David Zaslav says.",
-        "url": "https://www.businessinsider.com/wbd-trump-zaslav-consolidation-earnings-2024-11",
-        "urlToImage": "https://i.insider.com/672ce2e3192f52589856af3d?width=1200&format=jpeg",
-        "publishedAt": "2024-11-07T16:03:58Z",
-        "content": "David Zaslav wanted a new president who would make it easier for his company to buy other companies or sell itself.\r\nNow he has his wish.\r\nThe second version of the Trump administration may be a boon\u2026 [+3174 chars]"
+        "author": "CBS News",
+        "title": "In closing message at Ellipse in D.C., Harris calls Trump \"unstable\"",
+        "description": "Vice President Kamala Harris delivered a speech Tuesday evening to thousands of supporters at the Ellipse in Washington, D.C., the same park where former President Donald Trump spoke ahead of the Capitol insurrection on Jan. 6, 2021. She told voters that Trum\u2026",
+        "url": "https://www.cbsnews.com/video/harris-gives-closing-message-at-ellipse-in-d-c/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/29/cf895942-a916-4c14-95f5-aa6b03694309/thumbnail/1200x630/cf5abe1f07149a51696e1ec5343f86a3/1029-en-cordes.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T23:28:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "jsor@businessinsider.com (Jennifer Sor)",
-        "title": "Trump is about to make the Fed's job a lot harder",
-        "description": "Trump's plans for tariffs could stoke inflation and make the Fed's interest-rate decisions more complicated.",
-        "url": "https://www.businessinsider.com/trump-inflation-interest-rates-fed-rate-cuts-fomc-meeting-outlook-2024-11",
-        "urlToImage": "https://i.insider.com/672ccb78192f52589856a650?width=1200&format=jpeg",
-        "publishedAt": "2024-11-07T16:05:15Z",
-        "content": "The Federal Reserve could soon encounter a roadblock in its plans to keep the US economy going while also controlling inflation.\r\nDonald Trump's election win brings his vision of hefty trade tariffs \u2026 [+3816 chars]"
+        "author": "CBS News",
+        "title": "How Harris is reacting to Biden's \"garbage\" comments about Trump supporters",
+        "description": "Vice President Kamala Harris addressed President Biden's comments while on a call with Voto Latino, during which he appeared to call Donald Trump supporters \"garbage.\" CBS News' Hunter Woodall reports. Also, Jared Hill reports from Ohio on the race for the U.\u2026",
+        "url": "https://www.cbsnews.com/video/harris-addresses-biden-garbage-comments-about-trump-supporters/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/30/706948fd-ac73-4187-a667-87cf063869b3/thumbnail/1200x630/2dfa6909cc11ca60721ba846a1cd140f/cbsn-fusion-harris-addresses-biden-garbage-comments-about-trump-supporters-thumbnail.jpg?v=da20036415aedcaca28a32ffe615549e",
+        "publishedAt": "2024-10-30T17:32:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "tmohamed@insider.com (Theron Mohamed)",
-        "title": "These 7 experts explain why Trump won, Harris lost \u2014 and what the election result means",
-        "description": "Commentators credited Donald Trump's victory to factors including voter backlash against elites, Kamala Harris' shortcomings, and strong messaging.",
-        "url": "https://www.businessinsider.com/donald-trump-election-win-analysis-harris-immigration-abortion-economy-musk-2024-11",
-        "urlToImage": "https://i.insider.com/672b90725ec9bfa3d63c1824?width=1200&format=jpeg",
-        "publishedAt": "2024-11-06T18:08:34Z",
-        "content": "There's been an avalanche of analysis following Donald Trump's victory in the US presidential election on Wednesday, as experts sought to explain how the former president won a second term.\r\nThey've \u2026 [+5254 chars]"
+        "author": "CBS News",
+        "title": "What Harris, Trump campaigns are zeroing in on ahead of Election Day",
+        "description": "Former President Donald Trump and Vice President Kamala Harris are looking to emphasize their key campaign messages in the homestretch of the 2024 election. Both candidates also reacted to President Joe Biden's \"garbage\" comments. CBS News' Libby Cathey, Weij\u2026",
+        "url": "https://www.cbsnews.com/video/what-harris-trump-campaigns-zeroing-ahead-election-day/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/30/04a03b65-f587-4100-bc6b-9537641a4290/thumbnail/1200x630/6f62eb2afd111d7b1abbbf579192c60a/cbsn-fusion-what-harris-trump-campaigns-zeroing-ahead-election-day-thumbnail.jpg?v=da20036415aedcaca28a32ffe615549e",
+        "publishedAt": "2024-10-30T23:43:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Aisha Sembhi and Emma Middleton",
-        "title": "What is the 'Trump dance'? And where have we seen it in sport?",
-        "description": "As the 'Trump dance' goes viral on TikTok, we look at which sportspeople are doing it - and why.",
-        "url": "https://www.bbc.com/sport/articles/c0rg289ywqno",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/07e4/live/98650670-a68a-11ef-a4fe-a3e9a6c5d640.png",
-        "publishedAt": "2024-11-19T17:14:16Z",
-        "content": "In a lot of cases, we don't know for sure - some will simply be jumping on a TikTok trend.\r\nBut some athletes have hinted about their motivations.\r\nJones, who cracked out the moves after beating Stip\u2026 [+555 chars]"
+        "author": "CBS News",
+        "title": "CBS News poll has closer look inside gender gap as Trump, Harris draw even",
+        "description": "Nine days before Election Day, a new CBS News poll  shows the race between Kamala Harris and Donald Trump is as close as it's ever been, both nationally and in battleground states. Meanwhile, the gender gap in voter support for the candidates is the largest i\u2026",
+        "url": "https://www.cbsnews.com/video/cbs-news-poll-has-closer-look-inside-gender-gap-as-trump-harris-draw-even/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/27/f55bbaaa-b11d-45d0-b308-2753770b66d5/thumbnail/1200x630/02f9bf5bff563cfeea94e1abe5bc37ad/1027-ftn-salvanto.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-27T16:48:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "BBC News"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": null,
-        "title": "Trump names 'big tech' critic Brendan Carr to head US comms regulator",
-        "description": "Carr, a free speech advocate and longtime FCC member, has accused some social media firms of censorship.",
-        "url": "https://www.bbc.com/news/articles/cx2yd04859go",
-        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f421/live/f5a4c2d0-a5a4-11ef-bdf5-b7cb2fa86e10.jpg",
-        "publishedAt": "2024-11-18T12:27:40Z",
-        "content": "US President-elect Donald Trump has named \"big tech\" critic Brendan Carr to lead the US communications regulator, after he takes office in January 2025.\r\nCarr has attacked what he sees as the censors\u2026 [+2061 chars]"
+        "author": "CBS News",
+        "title": "Harris to Michigan, Trump to Georgia as comedian's offensive rally comments go viral",
+        "description": "Vice President Kamala Harris has responded to the offensive and racist comments that comedian Tony Hinchcliffe delivered during former President Donald Trump's rally at Madison Square Garden. This comes as Harris heads to Michigan and Trump goes to Georgia fo\u2026",
+        "url": "https://www.cbsnews.com/video/harris-to-michigan-trump-to-georgia-as-comedians-offensive-rally-comments-go-viral/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/6003ee64-299e-4546-83f7-6e3d919e23dc/thumbnail/1200x630/1017c89e4279779837f47e353af7f56a/cbsn-fusion-harris-to-michigan-trump-to-georgia-as-comedians-offensive-rally-comments-go-viral-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T19:29:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Allan Marks, Contributor, \n Allan Marks, Contributor\n https://www.forbes.com/sites/allanmarks/",
-        "title": "What A Second Trump Presidency Means For U.S. Energy",
-        "description": "Donald Trump's reelection as President will impact the energy industry, but maybe not as expected. Energy, trade, regulatory, fiscal and monetary policy may be at odds.",
-        "url": "https://www.forbes.com/sites/allanmarks/2024/11/07/us-energy-industry-trends-to-watch-in-a-2025-trump-presidency/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672cd495248743daac16b4ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-07T15:25:46Z",
-        "content": "When Donald Trump returns to the Oval Office in January 2025, his second presidency will have widespread implications for the energy industry, especially new investments, but not necessarily in the w\u2026 [+21710 chars]"
+        "author": "CBS News",
+        "title": "Comedian at Trump rally draws backlash for calling Puerto Rico a \"floating pile of garbage\"",
+        "description": "Former President Donald Trump rallied at Madison Square Garden in Manhattan, talking about the economy, the border and unleashing attacks on Vice President Kamala Harris. Allies joined the former president at the rally, but a joke about Puerto Rico by a comed\u2026",
+        "url": "https://www.cbsnews.com/video/comedian-at-trump-rally-draws-backlash-for-calling-puerto-rico-a-floating-pile-of-garbage/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/10/28/af9b6f9a-7928-4e2e-9766-10ec892e91a8/thumbnail/1200x630/a51ba3c38dad35c573991fe643afc37e/1028-cmo-costa.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T13:13:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "William Hartung, Contributor, \n William Hartung, Contributor\n https://www.forbes.com/sites/williamhartung/",
-        "title": "Will a Trump Presidency Supercharge U.S. Arms Trading?",
-        "description": "In his first term, President Trump pushed foreign arms sales for domestic political purposes. Will he follow the same approach this time around?",
-        "url": "https://www.forbes.com/sites/williamhartung/2024/11/06/will-a-trump-presidency-supercharge-us-arms-trading/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672b815d86749dc598c9290b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-06T14:48:29Z",
-        "content": "US President Donald Trump (R) looks at a defence sales chart with Saudi Arabia's Crown Prince ... [+] Mohammed bin Salman in the Oval Office of the White House on March 20, 2018 in Washington, DC. (P\u2026 [+3997 chars]"
+        "author": "CBS News",
+        "title": "New CBS News poll shows Harris and Trump tied both nationally and in battleground states",
+        "description": "With just eight days until Election Day, a new CBS News poll has Kamala Harris and Donald Trump locked in a virtual tie both nationally and collectively across battleground states. CBS News senior White House correspondent Weijia Jiang has more on how the cam\u2026",
+        "url": "https://www.cbsnews.com/video/new-cbs-news-poll-shows-harris-and-trump-tied-both-nationally-and-in-battleground-states/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/4ef6f722-2708-47f5-929c-7d50651c63e2/thumbnail/1200x630/feaf02b02fdfebf602eeb2d7dee58a07/cbsn-fusion-new-cbs-news-poll-shows-harris-and-trump-tied-both-nationally-and-in-battleground-states-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T15:52:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Tonya Evans, Contributor, \n Tonya Evans, Contributor\n https://www.forbes.com/sites/tonyaevans/",
-        "title": "Latino Crypto Voters: Trump Rally Comments Spark Election Shift Debate",
-        "description": "Will Trump rally comments about Puerto Rico sway Latino crypto voters in 2024? Explore how cultural respect and financial interests could shape a pivotal election shift.",
-        "url": "https://www.forbes.com/sites/tonyaevans/2024/10/31/latino-crypto-voters-trump-rally-comments-spark-election-shift-debate/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723ebfb81ebe5bb94eeaeb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-10-31T20:54:05Z",
-        "content": "A supporter holds up the flag of Puerto Rico as Democratic Presidential candidate and former US Vice ... [+] President Joe Biden delivers remarks at a Drive-in event in Coconut Creek, Florida, on Oct\u2026 [+8754 chars]"
+        "author": "CBS News",
+        "title": "Harris campaigns in Philadelphia as Trump rallies in New York City",
+        "description": "Vice President Kamala Harris hit several stops at she campaigned across Philadelphia on Sunday. Former President Donald Trump, meanwhile, held a rally at Madison Square Garden. Weijia Jiang has more on the campaigns.",
+        "url": "https://www.cbsnews.com/video/harris-campaigns-in-philadelphia-as-trump-rallies-in-new-york-city/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/10/28/6ce04090-6456-4b2a-a9c7-4895f561af1a/thumbnail/1200x630/e2ee467e2dfd364d49d7f51cbabcebb5/1027-wn-jiang-1.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T01:03:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Kyle Khan-Mullins, Forbes Staff, \n Kyle Khan-Mullins, Forbes Staff\n https://www.forbes.com/sites/kylemullins/",
-        "title": "Why Eric Trump Likely Isn\u2019t As Rich As His Siblings",
-        "description": "An executive vice president of the Trump Organization, Eric Trump gets most of his fortune from running his dad\u2019s companies rather than equity in the businesses.",
-        "url": "https://www.forbes.com/sites/kylemullins/2024/11/02/why-eric-trump-likely-isnt-as-rich-as-his-siblings/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67250309bb58980b9b3534fb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-02T10:30:32Z",
-        "content": "In mid-October in Concord, North Carolina, Eric Trump introduced his father to a crowd of Christian faith leaders. He talked about how he believed God had saved his father from an assassination attem\u2026 [+6518 chars]"
+        "author": "Melissa Quinn, Kathryn Watson, Caitlin Yilek, Graham Kates",
+        "title": "Harris to give closing argument in D.C. as Trump campaigns in Pennsylvania",
+        "description": "Seven days before Election Day, former President Donald Trump will have rallies in Pennsylvania while Vice President Kamala Harris will give a speech at the park south of the White House.",
+        "url": "https://www.cbsnews.com/live-updates/election-day-2024-week-away-trump-harris/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/29/13e5fa22-d763-4f50-a765-bf2e174d05b5/thumbnail/1200x630/5eb8d2cda7d365a4cbf11640d03980ef/trump-harris-10-29.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T13:30:00Z",
+        "content": "In a preview of the speech Harris will give at the Ellipse, the Washington, D.C. park south of the White House, on Tuesday, her campaign said it will serve as \"a major moment to make her closing argu\u2026 [+1053 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Dan Alexander, Forbes Staff, \n Dan Alexander, Forbes Staff\n https://www.forbes.com/sites/danalexander/",
-        "title": "Short On Cash After 2016 Election, Trump Secured Secret Loan",
-        "description": "As Americans head to the polls, secrets continue to emerge from Trump's first stint in office, like how he got a hidden loan around the time he became president.",
-        "url": "https://www.forbes.com/sites/danalexander/2024/11/05/short-on-cash-after-2016-election-trump-secured-secret-loan/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67295820891be8bc191cf32f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-05T11:30:22Z",
-        "content": "By Dan Alexander, Forbes Staff\r\nThe last time Donald Trump won an election, he faced a cash shortage, forcing him to take out an unexpected loan. He kept the debt hidden, leaving it off his financial\u2026 [+6122 chars]"
+        "author": "Caitlin Yilek",
+        "title": "Can Puerto Rico vote in U.S. elections? What to know amid Trump rally backlash",
+        "description": "Comedian Tony Hinchcliffe is facing a backlash over an offensive joke about Puerto Rico at a Trump rally days before the 2024 election.",
+        "url": "https://www.cbsnews.com/news/can-puerto-rico-vote-us-elections/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/28/534076b0-bc35-4972-8d02-99e920b39d41/thumbnail/1200x630/8c9745421ece3e7b580173c87818c104/gettyimages-157316560.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-28T20:39:16Z",
+        "content": "Washington \u2014 Voters in Puerto Rico who are angered by an offensive remark about the island at former President Donald Trump's campaign rally at Madison Square Garden in New York on Sunday have little\u2026 [+3459 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Jonathan Palmer, Forbes Staff, \n Jonathan Palmer, Forbes Staff\n https://www.forbes.com/sites/jonathanpalmer/",
-        "title": "How Trump Built A Golf Empire With Secret Financing",
-        "description": "Rumors of money laundering have circled Donald Trump's golf business for years. Forbes uncovered the true source of the funds.",
-        "url": "https://www.forbes.com/video/55def64c-a932-466b-89b8-7d59404dece4/how-trump-built-a-golf-empire-with-secret-financing/",
-        "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2024/11/05/55def64c-a932-466b-89b8-7d59404dece4_thumb.jpg?format=jpg&height=460&width=800&fit=bounds",
-        "publishedAt": "2024-11-05T22:14:32Z",
-        "content": "Rumors of money laundering have circled Donald Trump's golf business for years. Forbes uncovered the true source of the funds."
+        "author": "CBS News",
+        "title": "Harris and Trump tied in Pennsylvania with 1 week left, CBS News poll finds",
+        "description": "The 2024 presidential race is tied in Pennsylvania one week from Election Day. A new CBS News poll finds that Vice President Kamala Harris and former President Donald Trump have 49% there. CBS News executive director of elections and surveys Anthony Salvanto \u2026",
+        "url": "https://www.cbsnews.com/video/harris-trump-tied-pennsylvania-1-week-left-poll/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/29/6b5f3031-7c44-4b89-a6f2-6c81e8d6003e/thumbnail/1200x630/8e55400f95bd84af626d01a705072688/cbsn-fusion-harris-trump-tied-pennsylvania-1-week-left-poll-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T22:58:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "David Bloom, Senior Contributor, \n David Bloom, Senior Contributor\n https://www.forbes.com/sites/dbloom/",
-        "title": "Will New Trump Administration Set Off Merger Fever In Hollywood?",
-        "description": "Netflix won the Streaming Wars, and Trump won the presidency. Now Hollywood is likely to reshape itself with M&A, spinoffs and much else, with less regulatory opposition.",
-        "url": "https://www.forbes.com/sites/dbloom/2024/11/06/will-new-trump-administration-set-off-merger-fever-in-hollywood/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672be32dd85f9a435bf7bddd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-06T22:21:15Z",
-        "content": "(Photo by Mario Tama/Getty Images)\r\nGetty Images\r\nAmong the outgrowths of Donald Trumps presidential victory is an expected shift in antitrust and other regulatory interventions, well timed for batte\u2026 [+13460 chars]"
+        "author": "Caitlin Yilek",
+        "title": "Harris speech at Ellipse to offer \"a different path\" than Trump",
+        "description": "Vice President Kamala Harris will deliver remarks at the same spot Trump inspired his supporters to march to Capitol on Jan. 6, 2021.",
+        "url": "https://www.cbsnews.com/news/kamala-harris-speech-ellipse-donald-trump-2024-election/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/29/9431c006-cfa8-4449-99a8-1aaee7c28ba5/thumbnail/1200x630/76c8e9b4c9306c83ac87622e193fa121/ap24303765381259.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-29T22:47:15Z",
+        "content": "Washington \u2014 Vice President Kamala Harris on Tuesday night will deliver her closing argument against former President Donald Trump at the same site he encouraged his supporters to \"fight like hell\" o\u2026 [+3011 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Walter Pavlo, Contributor, \n Walter Pavlo, Contributor\n https://www.forbes.com/sites/walterpavlo/",
-        "title": "The Bureau Of Prisons Under A Trump Administration",
-        "description": "President Trump made his mark on the federal prison system by signing into law the First Step Act during his first term.  A second term will be bring more change.",
-        "url": "https://www.forbes.com/sites/walterpavlo/2024/11/06/the-bureau-of-prisons-under-a-trump-administration/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672c1f17acce3e3e19632fe8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-07T02:18:24Z",
-        "content": "WASHINGTON, DC - DECEMBER 21: U.S. President Donald Trump participates in the signing ceremony for ... [+] the First Step Act and the Juvenile Justice Reform Act in the Oval Office of the White House\u2026 [+5335 chars]"
+        "author": "Kathryn Watson, Alexander Tin",
+        "title": "How Trump and Harris' health care stances and policy plans compare",
+        "description": "A look at Kamala Harris and Donald Trump's stances on health care and what they've said about health care policy going into 2024 presidential election.",
+        "url": "https://www.cbsnews.com/news/trump-harris-health-care-2024/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/17/16f130a3-a6ac-4a76-a4c5-5f4c597670cc/thumbnail/1200x630/dfdb7d9b200e0bc4520a103bb317e739/cbsn-fusion-harris-sits-nabj-interview-trump-returns-campaigning-thumbnail.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-30T11:00:02Z",
+        "content": "Vice President Kamala Harris and former President Donald Trump have different stances on health care policy in America, although in the 2024 presidential election, health care has not played as promi\u2026 [+8402 chars]"
     },
     {
         "source": {
-            "id": null,
-            "name": "Forbes"
+            "id": "cbs-news",
+            "name": "CBS News"
         },
-        "author": "Zach Everson, Forbes Staff, \n Zach Everson, Forbes Staff\n https://www.forbes.com/sites/zacheverson/",
-        "title": "Even On Election Day, Trump Is Hawking His Merch",
-        "description": "Trump Store\u2019s email on Tuesday promotes pricey presidency-branded merchandise\u2014reinforcing the blurred lines between his presidency and personal profit.",
-        "url": "https://www.forbes.com/sites/zacheverson/2024/11/05/even-on-election-day-trump-is-hawking-his-merch/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672a9de8243d47af0232734c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-05T23:52:39Z",
-        "content": "Then-President-elect Donald Trump spoke about separating himself from his business interests at a news conference at Trump Tower in January 2017. (Photo by Spencer Platt/Getty Images)\r\nGetty Images\r\n\u2026 [+3626 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Russell Flannery, Senior Contributor, \n Russell Flannery, Senior Contributor\n https://www.forbes.com/sites/russellflannery/",
-        "title": "New Trump Tariff Impact On China Likely Overestimated: Andy Rothman",
-        "description": "Recovery in domestic confidence is more important to China\u2019s own growth, says long-time Matthews Asia China investment strategist",
-        "url": "https://www.forbes.com/sites/forbeschina/2024/11/08/new-trump-tariff-impact-on-china-likely-overestimated-andy-rothman/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672e49384fa1cabf6b3206aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-08T18:04:07Z",
-        "content": "For China, getting consumption back on track is the best way to prepare for whatever the Trump ... [+] administration might do next year, says Matthews Asia investment strategist Andy Rothman. Pictur\u2026 [+9945 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Paul Klein, Contributor, \n Paul Klein, Contributor\n https://www.forbes.com/sites/pklein/",
-        "title": "Social Change Under Trump: A Playbook For Business Leaders",
-        "description": "With the election of former President Donald Trump, CEOs need to reassess how the companies they lead should contribute to American society beyond making a profit.",
-        "url": "https://www.forbes.com/sites/pklein/2024/11/09/social-change-under-trump-a-playbook-for-business-leaders/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672e8fb35bd4c4c3ffa81e34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-09T19:38:54Z",
-        "content": "Bill Gates, founder of the Gates Foundation, speaks at a Save the Children event on vaccine equity ... [+] on 14 October 2024 Photo: Annette Riedl/dpa (Photo by Annette Riedl/picture alliance via Get\u2026 [+12337 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Bill Conerly, Senior Contributor, \n Bill Conerly, Senior Contributor\n https://www.forbes.com/sites/billconerly/",
-        "title": "Trump 2.0: Strategic Planning Guide For Business Leaders",
-        "description": "Many business leaders should start thinking about likely specific changes regarding tariffs, immigration, regulations and taxes.",
-        "url": "https://www.forbes.com/sites/billconerly/2024/11/09/trump-20-strategic-planning-guide-for-business-leaders/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672eb0af0e740168714b0113/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-09T12:37:00Z",
-        "content": "Donald Trump an election night party. (AP Photo/Alex Brandon)\r\nCopyright 2024 The Associated Press. All rights reserved.\r\nMany business leaders should start thinking about how the new Trump administr\u2026 [+5435 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Richard Behar, Contributor, \n Richard Behar, Contributor\n https://www.forbes.com/sites/richardbehar/",
-        "title": "Trump, Madoff And The Art (And Science) Of Pathological Lying",
-        "description": "No matter one\u2019s politics, there can be little doubt among rational people that Donald Trump is the greatest falsifier who ever held the American presidency.",
-        "url": "https://www.forbes.com/sites/richardbehar/2024/10/31/trump-madoff-and-the-art-and-science-of-pathological-lying/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6722df17e44b64913ecd1eb4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-10-31T15:44:01Z",
-        "content": "Trump's former Joint Chief of Staffs, Mark Milley, holding the 2017 book \"The Dangerous Case of ... [+] Donald Trump: 27 Psychiatrists and Mental Health Experts Assess A President.\" Location: Washing\u2026 [+26665 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Andy J. Semotiuk, Contributor, \n Andy J. Semotiuk, Contributor\n https://www.forbes.com/sites/andyjsemotiuk/",
-        "title": "Trump Vs. Harris On Immigration Deportation Or Path To Citizenship?",
-        "description": "Donald Trump pledges to deport all immigrants within the U.S. without legal status. Kamala Harris calls for a Path to Citizenship for them. Who is right?",
-        "url": "https://www.forbes.com/sites/andyjsemotiuk/2024/10/31/trump-vs-harris-on-immigration----deportation-or-path-to-citizenship/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6722da353dbd30c7143d6444/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-10-31T11:09:43Z",
-        "content": "US Vice President and Democratic presidential candidate Kamala Harris (R) shakes hands with former ... [+] US President and Republican presidential candidate Donald Trump during a presidential debate\u2026 [+3918 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Howard Gleckman, Senior Contributor, \n Howard Gleckman, Senior Contributor\n https://www.forbes.com/sites/howardgleckman/",
-        "title": "The Polar Opposite Tax Policies Of Harris And Trump",
-        "description": "Harris backs tax cuts for low- and moderate-income households. Trump has proposed big tariffs and tax cuts aimed at specific, but disparate, constituencies.",
-        "url": "https://www.forbes.com/sites/howardgleckman/2024/11/01/the-polar-opposite-tax-policies-of-harris-and-trump/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6724e01dfa2776027f1733e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-01T14:17:08Z",
-        "content": "Democratic presidential candidate Kamala Harris (R) shakes hands with Republican presidential ... [+] candidate Donald Trump during a presidential debate in Philadelphia, Pennsylvania, on September 1\u2026 [+5715 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "Michigan 2024 Trump-Harris Polls: Tie In Latest Survey",
-        "description": "Biden flipped Michigan in the 2020 election.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/11/03/michigan-2024-trump-harris-polls-tie-in-latest-survey/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67237c6a30e200555382b3b3/0x0.jpg?format=jpg&crop=4690,2637,x0,y191,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-03T14:56:31Z",
-        "content": "Former President Donald Trump and Vice President Kamala Harris are dead-even in Michigan in the latest survey, as three others this week show her with a slight advantage, and two show Trump aheadindi\u2026 [+6847 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Owen Tedford, Contributor, \n Owen Tedford, Contributor\n https://www.forbes.com/sites/owentedford/",
-        "title": "The Outlook For Crypto Under Trump And A Republican Congress",
-        "description": "The crypto industry has likely won its best possible election outcome, but seeing the benefits of that change may take more time than expected.",
-        "url": "https://www.forbes.com/sites/owentedford/2024/11/08/the-outlook-for-crypto-under-trump-and-a-republican-congress/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672e21cbd79140509c01729e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-08T14:42:11Z",
-        "content": "NASHVILLE, TENNESSEE - JULY 27: Former President and 2024 Republican presidential candidate Donald ... [+] Trump gestures while giving a keynote speech on the third day of the Bitcoin 2024 conference\u2026 [+4415 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Robert Barone, Contributor, \n Robert Barone, Contributor\n https://www.forbes.com/sites/greatspeculations/people/robertbarone/",
-        "title": "Equities Soar On Trump Election Despite A Slowing Economy",
-        "description": "The Dow Jones gained more than 1500 points on Wednesday after Trump won the 270 electoral votes needed to become the 47th President of the United States.",
-        "url": "https://www.forbes.com/sites/greatspeculations/2024/11/09/equities-soar-on-trump-election-despite-a-slowing-economy/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672fafd01c2092cf531a381e/0x0.jpg?format=jpg&crop=690,388,x211,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-09T19:03:19Z",
-        "content": "The Dow Jones gained more than 1500 points on Wednesday after Trump won the 270 electoral votes needed to become the 47th President of the United States, and the volume was twice the normal level. By\u2026 [+10225 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Martin Shenkman, Contributor, \n Martin Shenkman, Contributor\n https://www.forbes.com/sites/martinshenkman/",
-        "title": "Trump Presidency: Yes, Estate Planning Is Still Important",
-        "description": "President Trump might extend the bonus estate tax exemption or even repeal the estate tax. But estate planning remains important, just different.",
-        "url": "https://www.forbes.com/sites/martinshenkman/2024/11/10/trump-presidency-yes-estate-planning-is-still-important/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6730ec63bb6ee2b60f9cebb3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-10T17:28:01Z",
-        "content": "Estate planning should continue after the election, but planning will be different under a Trump ... [+] administration.\r\ngetty\r\nPresident Trumps Victory Means Estate Planning Changes, Not That it Sh\u2026 [+20752 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Chuck Brooks, Contributor, \n Chuck Brooks, Contributor\n https://www.forbes.com/sites/cognitiveworld/people/chuckbrooks/",
-        "title": "5 Cybersecurity Priorities for The Trump Administration",
-        "description": "President Trump\u2019s administration will assume a cybersecurity portfolio that has continued to evolve toward combating digital threats since (CISA) was created 6 years ago",
-        "url": "https://www.forbes.com/sites/chuckbrooks/2024/11/18/5-cybersecurity-priorities-for-the-trump-administration/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673b782a208126628450ed73/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-18T17:50:53Z",
-        "content": "Cyber security technology and online data protection in innovative perception . Concept of ... [+] technology for security of data storage used by global business network server to secure cyber infor\u2026 [+20941 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Tom Aspray, Contributor, \n Tom Aspray, Contributor\n https://www.forbes.com/sites/tomaspray/",
-        "title": "Is The Trump Rally Out Of Gas?",
-        "description": "The sharp election rally fizzled last week so FOMO buyers are worried. Tom Aspray discusses what the technical weight of the evidence is saying about the major trend.",
-        "url": "https://www.forbes.com/sites/tomaspray/2024/11/17/is-the-trump-rally-out-of-gas/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673a472dd98121ad22c916da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-17T19:47:42Z",
-        "content": "Fuel gauge's red needle indicating empty gas tank o\r\ngetty\r\nThe whipsaw action in the stock market over the past two weeks likely has some investors looking for a personal injury attorney. The strong\u2026 [+7486 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "atecotzky@businessinsider.com (Alice Tecotzky)",
-        "title": "Mark Cuban congratulates Trump \u2014 and Elon Musk \u2014 on winning the White House before the race is called",
-        "description": "Mark Cuban congratulated Trump before he'd officially won the White House \u2014 but as a Harris victory was looked like an ever distant possibility.",
-        "url": "https://www.businessinsider.com/mark-cuban-trump-elon-musk-kamala-harris-election-2024-11",
-        "urlToImage": "https://i.insider.com/672b0f1c5ec9bfa3d63c07db?width=1200&format=jpeg",
-        "publishedAt": "2024-11-06T06:43:39Z",
-        "content": "Vote counting is still underway, but Mark Cuban, a key campaign surrogate for Vice President Kamala Harris, has called the race for her opponent, former President Donald Trump.\r\n\"You won fair and squ\u2026 [+1355 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
-        "title": "Zelensky Says Ukraine-Russia War Ends \u2018Faster\u2019 With Trump\u2014Here\u2019s What Trump Has Said About Ending Conflict",
-        "description": "The president-elect has claimed he would end the war within 24 hours and previously said Ukraine would have benefited from an earlier peace deal.",
-        "url": "https://www.forbes.com/sites/tylerroush/2024/11/16/zelensky-says-ukraine-russia-war-ends-faster-with-trump-heres-what-trump-has-said-about-ending-conflict/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6738f8247655f8bf172a5400/0x0.jpg?format=jpg&crop=2612,1470,x524,y115,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-16T19:54:40Z",
-        "content": "Ukrainian President Volodymyr Zelensky said Friday his countrys war with Russia would end faster with Donald Trump as U.S. president, though Trumpwho previously claimed he could end the conflict in o\u2026 [+4940 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Michaela Zee",
-        "title": "Jordan Klepper Pokes Fun at Trump Campaign\u2019s Closing Message Focusing on Peanut the Squirrel\u2019s Death: \u2018I\u2019m Glad Republicans Finally Care About Police Brutality\u2019",
-        "description": "On Monday night\u2019s episode of \u201cThe Daily Show,\u201d correspondent Jordan Klepper poked fun at the \u201cimportant issues\u201d Donald Trump\u2019s campaign focused on in the final days leading up to the election, including the death of Peanut, an orphaned squirrel-turned-social \u2026",
-        "url": "https://variety.com/2024/tv/news/daily-show-trump-campaign-closing-message-election-peanut-the-squirrel-1236200767/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/11/Screenshot-2024-11-04-at-11.20.14-PM.png?w=1000&h=563&crop=1",
-        "publishedAt": "2024-11-05T07:20:35Z",
-        "content": "On Monday night\u2019s episode of \u201cThe Daily Show,\u201d correspondent Jordan Klepper poked fun at the \u201cimportant issues\u201d Donald Trump\u2018s campaign focused on in the final days leading up to the election, includ\u2026 [+3469 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Katcy Stephan",
-        "title": "Jay Leno Says Election Day Was \u2018Fair\u2019 and \u2018It Was Honest\u2019 After Trump Win: \u2018It Was a Great Day For Democracy\u2019",
-        "description": "Jay Leno may not be Donald Trump\u2019s biggest fan, but he\u2019s praising the election as \u201ca great day for democracy.\u201d During an appearance Wednesday morning on \u201cThe Talk,\u201d the comedian addressed Trump\u2019s win over Vice President Kamala Harris. \u201cThe nice thing about th\u2026",
-        "url": "https://variety.com/2024/politics/news/jay-leno-trump-election-win-fair-great-day-democracy-1236203082/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/11/lenotrump.png?w=1000&h=563&crop=1",
-        "publishedAt": "2024-11-06T22:30:11Z",
-        "content": "Jay Leno may not be Donald Trump\u2018s biggest fan, but he\u2019s praising the election as \u201ca great day for democracy.\u201d\r\nDuring an appearance Wednesday morning on \u201cThe Talk,\u201d the comedian addressed Trump\u2019s wi\u2026 [+1343 chars]"
-    },
-    {
-        "source": {
-            "id": "business-insider",
-            "name": "Business Insider"
-        },
-        "author": "jzitser@businessinsider.com (Joshua Nelken-Zitser)",
-        "title": "Matt Gaetz is emerging as the Trump pick Republicans are prepared to dunk on",
-        "description": "Donald Trump's nomination of Matt Gaetz for Attorney General has sparked backlash in the GOP, even among the president-elect's most loyal followers.",
-        "url": "https://www.businessinsider.com/matt-gaetz-emerges-trump-pick-gop-prepared-criticize-attorney-general-2024-11",
-        "urlToImage": "https://i.insider.com/6735d2c8192f525898585e39?width=1200&format=jpeg",
-        "publishedAt": "2024-11-14T11:17:20Z",
-        "content": "Amid a series of attention-grabbing cabinet picks, perhaps no choice has drawn more attention than President-elect Donald Trump's decision to nominate GOP Rep. Matt Gaetz of Florida as the next US At\u2026 [+4427 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Variety"
-        },
-        "author": "Todd Spangler",
-        "title": "Nelson Peltz Claims He Played \u2018Matchmaker\u2019 Between Donald Trump and Elon Musk, Says Harris Was a \u2018Ridiculous\u2019 Alternative",
-        "description": "Hedge fund billionaire Nelson Peltz, the activist investor who launched an unsuccessful proxy fight to shake up Disney\u2019s board, said he\u2019s responsible for connecting Elon Musk and Donald Trump. Peltz, founding partner and CEO of investment firm Trian Partners,\u2026",
-        "url": "https://variety.com/2024/biz/news/nelson-peltz-matchmaker-donald-trump-elon-musk-1236209437/",
-        "urlToImage": "https://variety.com/wp-content/uploads/2024/02/Nelson-Peltz-Elon-Musk-Nicola-Peltz-Beckham.jpg?w=1000&h=563&crop=1",
-        "publishedAt": "2024-11-13T21:34:30Z",
-        "content": "Hedge fund billionaire Nelson Peltz, the activist investor who launched an unsuccessful proxy fight to shake up Disney\u2019s board, said he\u2019s responsible for connecting Elon Musk and Donald Trump.\r\nPeltz\u2026 [+5294 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Jena McGregor, Forbes Staff, \n Jena McGregor, Forbes Staff\n https://www.forbes.com/sites/jenamcgregor/",
-        "title": "Leading The Workplace In A Second Trump Era",
-        "description": "The published version of Forbes' Future of Work newsletter delivers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the workforce and trends in the remote work debate to your inbox every Monday.",
-        "url": "https://www.forbes.com/sites/jenamcgregor/2024/11/11/leading-the-workplace-in-a-second-trump-era/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6731ff8ac822de31e78fa2cf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-11T14:15:46Z",
-        "content": "This is the published version of Forbes' Future of Work newsletter, which offers the latest news for chief human resources officers and other talent managers on disruptive technologies, managing the \u2026 [+9048 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Alison Durkee, Forbes Staff, \n Alison Durkee, Forbes Staff\n https://www.forbes.com/sites/alisondurkee/",
-        "title": "Trump Hush Money Case\u2014Including Sentencing\u2014Paused After Presidential Win",
-        "description": "The judge asked prosecutors to give their \u201cview of appropriate steps going forward.\u201d",
-        "url": "https://www.forbes.com/sites/alisondurkee/2024/11/12/trump-hush-money-case-including-sentencing-paused-after-presidential-win/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6733648f8539134abed47ace/0x0.jpg?format=jpg&crop=3217,1809,x0,y214,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-12T15:35:03Z",
-        "content": "Judge Juan Merchan paused proceedings in President-elect Donald Trumps New York criminal case Tuesday, pushing back an anticipated ruling on whether his conviction can move forward, as well as his se\u2026 [+4680 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Robert W. Wood, Senior Contributor, \n Robert W. Wood, Senior Contributor\n https://www.forbes.com/sites/robertwood/",
-        "title": "Eleven Things Trump & Congress Might Do To Your Taxes",
-        "description": "Tax changes are coming, and here are just a few. Trump's 2017 tax law is nearing expiration, so change is coming even if Trump and the Republications do not tax action.",
-        "url": "https://www.forbes.com/sites/robertwood/2024/11/18/eleven-things-trump--congress-might-do-to-your-taxes/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6731016d67a606935b6915ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-18T14:34:08Z",
-        "content": "WEST PALM BEACH, FLORIDA - NOVEMBER 06: Republican presidential nominee, former U.S. President ... [+] Donald Trump arrives to speak during an election night event at the Palm Beach Convention Center\u2026 [+6599 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Peter Suciu, Contributor, \n Peter Suciu, Contributor\n https://www.forbes.com/sites/petersuciu/",
-        "title": "X Marks The Spot For Advertisers After Trump Victory",
-        "description": "Major brands, including Apple, Comcast, Disney, Discovery, and IBM, had pulled their ads after tech entrepreneur Elon Musk was seen to endorse an antisemitic conspiracy",
-        "url": "https://www.forbes.com/sites/petersuciu/2024/11/18/x-marks-the-spot-for-advertisers-after-trump-victory/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/655e5c98a9a6d6a08b308ab0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-18T21:52:18Z",
-        "content": "Many of X's former top advertisers have been slowly returning to the social media platform (Photo by ... [+] Nathan Stirk/Getty Images)\r\nGetty Images\r\nMany of X's former top advertisers have been slo\u2026 [+5842 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Ian Nicholas Quillen, Contributor, \n Ian Nicholas Quillen, Contributor\n https://www.forbes.com/sites/ianquillen/",
-        "title": "USMNT\u2019s Christian Pulisic May Come To Regret \u2018Trump Dance\u2019 Celebration",
-        "description": "Christian Pulisic insisted his celebration was not a political statement. But it opens up he and his teammmates to a line of questioning they'd probably rather avoid.",
-        "url": "https://www.forbes.com/sites/ianquillen/2024/11/19/usmnts-christian-pulisic-may-come-to-regret-trump-dance-celebration/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673c7772ba390c12842a4dee/0x0.jpg?format=jpg&crop=2762,1553,x0,y73,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-19T12:00:42Z",
-        "content": "Christian Pulisic of the United States, right, celebrates scoring with teammate Tanner Tessmann ... [+] during the first half against Jamaica during leg two of the 2024 Concacaf Nations League quarte\u2026 [+3836 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Mike O'Sullivan, Senior Contributor, \n Mike O'Sullivan, Senior Contributor\n https://www.forbes.com/sites/mikeosullivan/",
-        "title": "What Should Europe Expect In Term Of Trump Tariffs?",
-        "description": "The tenor of Donald Trump\u2019s second term in office is now becoming more obvious with the nomination of potential members of his cabinet.",
-        "url": "https://www.forbes.com/sites/mikeosullivan/2024/11/19/what-should-europe-expect-in-term-of-trump-tariffs/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673c955cec55cf4e85e28507/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-19T13:44:13Z",
-        "content": "LONDON, ENGLAND - OCTOBER 30: Chancellor of the Exchequer, Rachel Reeves, poses with the red Budget ... [+] Box as she leaves 11 Downing Street to present the government's annual budget to Parliament\u2026 [+2879 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Peter Suciu, Contributor, \n Peter Suciu, Contributor\n https://www.forbes.com/sites/petersuciu/",
-        "title": "'Trump Dance' Goes Viral As Sports Stars Mimic President-Elect",
-        "description": "President-elect Donald Trump may not have united the country politically, but his signature dance moves have taken the sports world by storm and united fans.",
-        "url": "https://www.forbes.com/sites/petersuciu/2024/11/19/trump-dance-goes-viral-as-sports-stars-mimic-president-elect/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673c98b64d14b4273dbc9e92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-19T14:00:28Z",
-        "content": "President-elect Donald Trump's dance moves are now being copied by athletes across the world of ... [+] sports. (Photo by Win McNamee/Getty Images)\r\nGetty Images\r\nPresident-elect Donald Trump may not\u2026 [+3552 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Howard Gleckman, Senior Contributor, \n Howard Gleckman, Senior Contributor\n https://www.forbes.com/sites/howardgleckman/",
-        "title": "What A Trump Administration Will Mean For Older Adults",
-        "description": "He proposed exempting Social Security benefits from income tax\u2014effectively raising benefits for those higher-income retirees now subject to the levy.",
-        "url": "https://www.forbes.com/sites/howardgleckman/2024/11/11/what-a-trump-administration-will-mean-for-older-adults/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6732298f7f4a022849dcbba3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-11T16:06:51Z",
-        "content": "FLORIDA, UNITED STATES - NOVEMBER 06: Republican presidential candidate Donald Trump makes an ... [+] election night speech at the Palm Beach Convention Center (Photo by Brendan Gutenschwager/Anadolu\u2026 [+5472 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Sarwant Singh, Contributor, \n Sarwant Singh, Contributor\n https://www.forbes.com/sites/sarwantsingh/",
-        "title": "What Trump 2.0 Means For The Auto Industry",
-        "description": "The Trump + Musk combined will have wide scale impact on the US Auto industry with key policy changes.",
-        "url": "https://www.forbes.com/sites/sarwantsingh/2024/11/13/what-trump-20-means-for-the-auto-industry/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67343b3e79dd20d1483c9182/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-13T05:44:49Z",
-        "content": "Now that Election Day has come and gone, and the victor declared, I dont mind saying that Id had my eye on the 2024 Presidential Elections to see who would be controlling America and, more importantl\u2026 [+9709 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Mike O'Sullivan, Senior Contributor, \n Mike O'Sullivan, Senior Contributor\n https://www.forbes.com/sites/mikeosullivan/",
-        "title": "Europe Enters New Era In Wake Of Trump Election",
-        "description": "This is an election result of such great consequence that it will decide whether America\u2019s hegemony is renewed, or that its empire fades like so many others have done ...",
-        "url": "https://www.forbes.com/sites/mikeosullivan/2024/11/11/europe-enters-new-era-in-wake-of-trump-election/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672f0c028694ddb995f46813/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-11T19:31:06Z",
-        "content": "BERLIN, GERMANY - FEBRUARY 07: German Social Democratic party SPD candidate for chancellor Olaf ... [+] Scholz looks on during a two-day party meeting on February 07, 2021 in Berlin, Germany. (Photo \u2026 [+6036 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Peter Greene, Senior Contributor, \n Peter Greene, Senior Contributor\n https://www.forbes.com/sites/petergreene/",
-        "title": "Will Trump Really End The Department Of Education",
-        "description": "It has been on the conservative To Do list for decades, and the incoming administration keeps insisting that this time it\u2019s really going to happen. But will it?",
-        "url": "https://www.forbes.com/sites/petergreene/2024/11/12/will-trump-really-end-the-department-of-education/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673408d44c7e6fd5aa2c75f5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-13T02:04:27Z",
-        "content": "Trump's education priorities point in two different directions (Photo by Sean Rayford/Getty Images)\r\nGetty Images\r\nIt has been on the conservative To Do list for decades, and the incoming administrat\u2026 [+4267 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Dario Sabaghi, Contributor, \n Dario Sabaghi, Contributor\n https://www.forbes.com/sites/dariosabaghi/",
-        "title": "What Can We Expect From Trump On Cannabis Reform?",
-        "description": "Understanding how Trump might influence cannabis reform in his second term is crucial for anticipating the future of the industry in the United States.",
-        "url": "https://www.forbes.com/sites/dariosabaghi/2024/11/18/what-can-we-expect-from-trump-on-cannabis-reform/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673b137366c8ad3bd71f448f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-18T11:00:42Z",
-        "content": "LITITZ, PENNSYLVANIA - NOVEMBER 03: Republican presidential nominee, former U.S. President Donald ... [+] Trump arrives for a campaign rally at Lancaster Airport on November 03, 2024 in Lititz, Penns\u2026 [+10241 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Amy Feldman, Forbes Staff, \n Amy Feldman, Forbes Staff\n https://www.forbes.com/sites/amyfeldman/",
-        "title": "Clean Energy\u2019s Cost Edge Could Trump \u2018Drill, Baby, Drill\u2019",
-        "description": "In this week's Current Climate newsletter, clean energy's cost edge could trump 'drill, baby, drill,' the Sierra Club prepares to fight Trump, and the nomination of Lee Zeldin to EPA",
-        "url": "https://www.forbes.com/sites/amyfeldman/2024/11/18/clean-energys-cost-edge-could-trump-drill-baby-drill/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67352c1d09f4ca7e3c0fbc16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-18T12:00:00Z",
-        "content": "Current Climate brings you the latest news about the business of sustainability every Monday. Sign up to get it in your inbox.\r\ngetty\r\nThe realization that Donald Trump is returning to the White Hous\u2026 [+7007 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Nina Bambysheva, Forbes Staff, \n Nina Bambysheva, Forbes Staff\n https://www.forbes.com/sites/ninabambysheva/",
-        "title": "Bitcoin Blazes Past $90,000 On Trump Euphoria, Meme Coin Mania",
-        "description": "The record-breaking surge signals the market\u2019s optimism about Trump\u2019s crypto promises.",
-        "url": "https://www.forbes.com/sites/cryptoconfidential/2024/11/18/bitcoin-blazes-past-90000-on-trump-euphoria-meme-coin-mania/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673b6579be40112216ea6338/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-18T16:15:18Z",
-        "content": "This is a published version of our weekly Forbes Crypto Confidential newsletter. Sign up to get Crypto Confidential as soon as it is published free in your inbox here.\r\nWhimsical tokens inspired by i\u2026 [+3363 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "William Hartung, Contributor, \n William Hartung, Contributor\n https://www.forbes.com/sites/williamhartung/",
-        "title": "Will President-Elect Trump Drain the Swamp or Expand It?",
-        "description": "Will Donald Trump crack down on warmongers and war profiteers, or partner with them for his own political benefit?",
-        "url": "https://www.forbes.com/sites/williamhartung/2024/11/18/will-president-elect-trump-drain-the-swamp-or-expand-it/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673bef5685b3bb00a3f71950/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-19T01:52:38Z",
-        "content": "BUTLER, PENNSYLVANIA - OCTOBER 05: Elon Musk embraces Republican presidential nominee, former ... [+] President Donald Trump during a campaign rally at the Butler Farm Show fairgrounds on October 05,\u2026 [+3605 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Ulrich Boser, Contributor, \n Ulrich Boser, Contributor\n https://www.forbes.com/sites/ulrichboser/",
-        "title": "Why An AI-Forward Education Agenda Is Possible Under Trump",
-        "description": "If education advocates can find common ground with the Trump, there is still potential for positive policy change over the next four years with artificial intelligence.",
-        "url": "https://www.forbes.com/sites/ulrichboser/2024/11/18/why-an-ai-forward-education-agenda-is-possible-under-trump/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/673b653a7bd69b406921ce15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-18T16:06:52Z",
-        "content": "Trumps second term as president will likely offer an opportunity for an education innovation ... [+] agenda, leaning into the promise of AI.\r\nAFP via Getty Images\r\nFor those who see a role for the fe\u2026 [+5242 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
-        "title": "Major Trump Media Shareholder Offloads Nearly Entire Stake",
-        "description": "The financial firm reduced its stake in the Truth Social parent\u2019s stock from more than 5% to just 0.01%, regulatory filings show.",
-        "url": "https://www.forbes.com/sites/tylerroush/2024/11/15/major-trump-media-shareholder-offloads-nearly-entire-stake/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6737a81c1a143039befac3f9/0x0.jpg?format=jpg&crop=6072,3418,x0,y445,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-15T20:00:05Z",
-        "content": "ARC Global Investments and its founder Patrick Orlando have offloaded nearly their entire stake in Trump Media &amp; Technology Group and are no longer major shareholders in the Truth Social parent, \u2026 [+2969 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
-        "title": "Trump Media Shares Halted Again For Volatile Trading As Price Falls",
-        "description": "Shares of the Truth Social parent have surged this month before a recent selloff.",
-        "url": "https://www.forbes.com/sites/tylerroush/2024/10/31/trump-media-shares-halted-again-for-volatile-trading-as-price-falls/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723a72f0020b76773891758/0x0.jpg?format=jpg&crop=3139,1766,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-10-31T15:50:40Z",
-        "content": "Trading in Trump Media &amp; Technology Group shares was halted multiple times again on Thursday as the companys stock price dropped, erasing more than $500 million from former President Donald Trump\u2026 [+2214 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "Can Trump And Harris Tie? It\u2019s Possible\u2014Here\u2019s What Would Happen",
-        "description": "The House would select the president and the Senate would pick the vice president.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/can-trump-and-harris-tie-its-possible-heres-what-would-happen/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723a428fda7c1290c1e066b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-10-31T15:42:24Z",
-        "content": "Former President Donald Trump and Vice President Kamala Harris are in a dead heat in national polls and the seven swing states less than a week before Election Daybut theres a slim chance of it endin\u2026 [+5306 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Kristin Hunt, Forbes Staff, \n Kristin Hunt, Forbes Staff\n https://www.forbes.com/",
-        "title": "Donald Trump's Net Worth Down $1 Billion As Trump Media Shares Plummet | Forbes Topline",
-        "description": "Former President Donald Trump's net worth has dropped more than $1 billion Wednesday, as shares in Trump Media & Technology Group plummeted 20% ending a day's long rally for the company's stock as Election Day nears.    Read the full story on Forbes: https://\u2026",
-        "url": "https://www.forbes.com/video/69fb59fa-e49b-47bf-a095-d86cbbfabec4/donald-trumps-net-worth-down-1-billion-as-trump-media-shares-plummet--forbes-topline/",
-        "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2024/10/31/69fb59fa-e49b-47bf-a095-d86cbbfabec4_thumb.jpg?format=jpg&height=460&width=800&fit=bounds",
-        "publishedAt": "2024-10-31T15:18:37Z",
-        "content": "Former President Donald Trump's net worth has dropped more than $1 billion Wednesday, as shares in Trump Media &amp; Technology Group plummeted 20% ending a day's long rally for the company's stock a\u2026 [+180 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "North Carolina 2024 Trump-Harris Polls: No Clear Leader In 3 New Polls",
-        "description": "Polls show Trump and Harris are in a virtual tie for North Carolina\u2019s 16 electoral college votes.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/north-carolina-2024-trump-harris-polls-trump-leads-by-2-points-in-new-survey/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67199405f7064b77b7f00646/0x0.jpg?format=jpg&crop=3736,2101,x0,y49,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-10-31T16:39:44Z",
-        "content": "Vice President Kamala Harris is vying to become only the second Democratic presidential candidate to win North Carolina in more than 40 years, as most polls show her and former President Donald Trump\u2026 [+4739 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Forbes"
-        },
-        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
-        "title": "Pennsylvania 2024 Trump-Harris Polls: Race Is Tied In 2 New Polls Of Key Battleground",
-        "description": "Pennsylvania has voted for 10 of the last 12 White House winners.",
-        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/pennsylvania-2024-trump-harris-polls-race-is-tied-in-2-new-polls-of-key-battleground/",
-        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671690ba6a1a4fd1a8e09b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2024-11-04T16:47:55Z",
-        "content": "The race in the crucial battleground of Pennsylvania is closer than any other swing state contest headed into Election Day, according to polling averages that show a neck-and-neck race between former\u2026 [+6433 chars]"
+        "author": "CBS News",
+        "title": "Trump rallies Latino voters in Pennsylvania as campaign focuses on Biden's remark",
+        "description": "Former President Trump and other Republicans were quick to jump on comments from President Biden as Trump's campaign sought to pivot away from the controversy over racist remarks at his mega-rally on Sunday. Caitlin Huey-Burns is in Pennsylvania, where Trump \u2026",
+        "url": "https://www.cbsnews.com/video/trump-rallies-latino-voters-in-pennsylvania-as-campaign-focuses-on-bidens-remark/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/30/ac4751ac-ccf5-4fee-91d4-ad711af71bf8/thumbnail/1200x630/bcfd1d3a7b1b586b3547000167904742/1030-cmo-burns.jpg?v=17b612a59ff4c1e4774d3d0d3ec005e8",
+        "publishedAt": "2024-10-30T13:36:00Z",
+        "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
     },
     {
         "source": {
@@ -5604,6 +5604,201 @@
     },
     {
         "source": {
+            "id": "buzzfeed",
+            "name": "Buzzfeed"
+        },
+        "author": "Alexa Lisitza",
+        "title": "Gay Men Are Dragging J.D. Vance After He Said He Wouldn't Be Surprised If He And Trump Won \"The Normal Gay Guy Vote\"",
+        "description": "What exactly is a \"normal gay guy vote\"?View Entire Post \u203a",
+        "url": "https://www.buzzfeed.com/alexalisitza/reactions-jd-vance-normal-gay-comment",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-11/1/21/enhanced/417fdd057af7/original-6928-1730494815-3.jpg?crop=3008:1575;0,0%26downsize=1250:*",
+        "publishedAt": "2024-11-04T13:02:02Z",
+        "content": "As someone who has been classified as a normal gay guy by conservatives my whole life, absolutely not. The gay men voting for Trump are just like him: theyre miserable, vain, attention seeking, self-\u2026 [+138 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Nevada 2024 Trump-Harris Polls: Trump Holds Razor-Thin Advantage\u2014As Harris Struggles With Latinos",
+        "description": "Nevada has voted for Democrats in every presidential election since 2008.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/nevada-2024-trump-harris-polls-trump-holds-razor-thin-advantage-as-harris-struggles-with-latinos/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/672112b5f1591eb0f2505954/0x0.jpg?format=jpg&crop=3114,1752,x0,y286,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-04T17:22:49Z",
+        "content": "Vice President Kamala Harris and former President Donald Trump are essentially tied in Nevada in what could be the final pre-election swing state survey, though Trump has a slight advantage in pollin\u2026 [+4743 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Georgia 2024 Trump-Harris Polls: Trump (Barely) Ahead In Most Final Surveys",
+        "description": "Biden was the first Democratic presidential candidate to win Georgia since 1992.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/georgia-2024-trump-harris-polls-trump-barely-ahead-in-most-final-surveys/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6704190ebf10232404c5e121/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-04T15:38:25Z",
+        "content": "Former President Donald Trump has erased Vice President Kamala Harris brief lead in Georgia in polling averages shortly after her late entrance into the race, as he aims to flip the state after losin\u2026 [+4274 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Michigan 2024 Trump-Harris Polls: Trump Leads In Latest Survey\u2014But Race Remains Tight",
+        "description": "Biden flipped Michigan in the 2020 election.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/michigan-2024-trump-harris-polls-trump-leads-in-latest-survey-but-race-remains-tight/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67237c6a30e200555382b3b3/0x0.jpg?format=jpg&crop=4690,2637,x0,y191,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T12:48:10Z",
+        "content": "Former President Donald Trump leads Vice President Kamala Harris in Michigan in the latest survey, but Harris has a slight advantage in three other polls released this weekindicating the race remains\u2026 [+6747 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Antonio Peque\u00f1o IV, Forbes Staff, \n Antonio Peque\u00f1o IV, Forbes Staff\n https://www.forbes.com/sites/antoniopequenoiv/",
+        "title": "Arizona 2024 Trump-Harris Polls: Trump Maintains Lead In Latest Survey",
+        "description": "President Joe Biden narrowly won the battleground state in 2020 over Trump, who sought to overturn election results in the state.",
+        "url": "https://www.forbes.com/sites/antoniopequenoiv/2024/11/03/arizona-2024-trump-harris-polls-trump-maintains-lead-in-latest-survey/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/670abf3927a43f3f2d89511a/0x0.jpg?format=jpg&crop=3920,2613,x0,y19,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-03T15:30:16Z",
+        "content": "Former President Donald Trump has a four-point lead over Vice President Kamala Harris in Arizona in a new New York Times swing state surveyrepresenting his widest lead of any battleground polled.\r\nTr\u2026 [+4190 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Tonya Evans, Contributor, \n Tonya Evans, Contributor\n https://www.forbes.com/sites/tonyaevans/",
+        "title": "Latino Crypto Voters: Trump Rally Comments Spark Election Shift Debate",
+        "description": "Will Trump rally comments about Puerto Rico sway Latino crypto voters in 2024? Explore how cultural respect and financial interests could shape a pivotal election shift.",
+        "url": "https://www.forbes.com/sites/tonyaevans/2024/10/31/latino-crypto-voters-trump-rally-comments-spark-election-shift-debate/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723ebfb81ebe5bb94eeaeb8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T20:54:05Z",
+        "content": "A supporter holds up the flag of Puerto Rico as Democratic Presidential candidate and former US Vice ... [+] President Joe Biden delivers remarks at a Drive-in event in Coconut Creek, Florida, on Oct\u2026 [+8754 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Kyle Khan-Mullins, Forbes Staff, \n Kyle Khan-Mullins, Forbes Staff\n https://www.forbes.com/sites/kylemullins/",
+        "title": "Why Eric Trump Likely Isn\u2019t As Rich As His Siblings",
+        "description": "An executive vice president of the Trump Organization, Eric Trump gets most of his fortune from running his dad\u2019s companies rather than equity in the businesses.",
+        "url": "https://www.forbes.com/sites/kylemullins/2024/11/02/why-eric-trump-likely-isnt-as-rich-as-his-siblings/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67250309bb58980b9b3534fb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-02T10:30:32Z",
+        "content": "In mid-October in Concord, North Carolina, Eric Trump introduced his father to a crowd of Christian faith leaders. He talked about how he believed God had saved his father from an assassination attem\u2026 [+6518 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Michigan 2024 Trump-Harris Polls: Tie In Latest Survey",
+        "description": "Biden flipped Michigan in the 2020 election.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/03/michigan-2024-trump-harris-polls-tie-in-latest-survey/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67237c6a30e200555382b3b3/0x0.jpg?format=jpg&crop=4690,2637,x0,y191,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-03T14:56:31Z",
+        "content": "Former President Donald Trump and Vice President Kamala Harris are dead-even in Michigan in the latest survey, as three others this week show her with a slight advantage, and two show Trump aheadindi\u2026 [+6847 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Andy J. Semotiuk, Contributor, \n Andy J. Semotiuk, Contributor\n https://www.forbes.com/sites/andyjsemotiuk/",
+        "title": "Trump Vs. Harris On Immigration Deportation Or Path To Citizenship?",
+        "description": "Donald Trump pledges to deport all immigrants within the U.S. without legal status. Kamala Harris calls for a Path to Citizenship for them. Who is right?",
+        "url": "https://www.forbes.com/sites/andyjsemotiuk/2024/10/31/trump-vs-harris-on-immigration----deportation-or-path-to-citizenship/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6722da353dbd30c7143d6444/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T11:09:43Z",
+        "content": "US Vice President and Democratic presidential candidate Kamala Harris (R) shakes hands with former ... [+] US President and Republican presidential candidate Donald Trump during a presidential debate\u2026 [+3918 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Richard Behar, Contributor, \n Richard Behar, Contributor\n https://www.forbes.com/sites/richardbehar/",
+        "title": "Trump, Madoff And The Art (And Science) Of Pathological Lying",
+        "description": "No matter one\u2019s politics, there can be little doubt among rational people that Donald Trump is the greatest falsifier who ever held the American presidency.",
+        "url": "https://www.forbes.com/sites/richardbehar/2024/10/31/trump-madoff-and-the-art-and-science-of-pathological-lying/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6722df17e44b64913ecd1eb4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T15:44:01Z",
+        "content": "Trump's former Joint Chief of Staffs, Mark Milley, holding the 2017 book \"The Dangerous Case of ... [+] Donald Trump: 27 Psychiatrists and Mental Health Experts Assess A President.\" Location: Washing\u2026 [+26665 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Howard Gleckman, Senior Contributor, \n Howard Gleckman, Senior Contributor\n https://www.forbes.com/sites/howardgleckman/",
+        "title": "The Polar Opposite Tax Policies Of Harris And Trump",
+        "description": "Harris backs tax cuts for low- and moderate-income households. Trump has proposed big tariffs and tax cuts aimed at specific, but disparate, constituencies.",
+        "url": "https://www.forbes.com/sites/howardgleckman/2024/11/01/the-polar-opposite-tax-policies-of-harris-and-trump/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6724e01dfa2776027f1733e9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-01T14:17:08Z",
+        "content": "Democratic presidential candidate Kamala Harris (R) shakes hands with Republican presidential ... [+] candidate Donald Trump during a presidential debate in Philadelphia, Pennsylvania, on September 1\u2026 [+5715 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Ty Roush, Forbes Staff, \n Ty Roush, Forbes Staff\n https://www.forbes.com/sites/tylerroush/",
+        "title": "Trump Media Shares Halted Again For Volatile Trading As Price Falls",
+        "description": "Shares of the Truth Social parent have surged this month before a recent selloff.",
+        "url": "https://www.forbes.com/sites/tylerroush/2024/10/31/trump-media-shares-halted-again-for-volatile-trading-as-price-falls/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723a72f0020b76773891758/0x0.jpg?format=jpg&crop=3139,1766,x0,y0,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T15:50:40Z",
+        "content": "Trading in Trump Media &amp; Technology Group shares was halted multiple times again on Thursday as the companys stock price dropped, erasing more than $500 million from former President Donald Trump\u2026 [+2214 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Can Trump And Harris Tie? It\u2019s Possible\u2014Here\u2019s What Would Happen",
+        "description": "The House would select the president and the Senate would pick the vice president.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/can-trump-and-harris-tie-its-possible-heres-what-would-happen/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6723a428fda7c1290c1e066b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T15:42:24Z",
+        "content": "Former President Donald Trump and Vice President Kamala Harris are in a dead heat in national polls and the seven swing states less than a week before Election Daybut theres a slim chance of it endin\u2026 [+5306 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Kristin Hunt, Forbes Staff, \n Kristin Hunt, Forbes Staff\n https://www.forbes.com/",
+        "title": "Donald Trump's Net Worth Down $1 Billion As Trump Media Shares Plummet | Forbes Topline",
+        "description": "Former President Donald Trump's net worth has dropped more than $1 billion Wednesday, as shares in Trump Media & Technology Group plummeted 20% ending a day's long rally for the company's stock as Election Day nears.    Read the full story on Forbes: https://\u2026",
+        "url": "https://www.forbes.com/video/69fb59fa-e49b-47bf-a095-d86cbbfabec4/donald-trumps-net-worth-down-1-billion-as-trump-media-shares-plummet--forbes-topline/",
+        "urlToImage": "https://imageio.forbes.com/i-forbesimg/media/video/2024/10/31/69fb59fa-e49b-47bf-a095-d86cbbfabec4_thumb.jpg?format=jpg&height=460&width=800&fit=bounds",
+        "publishedAt": "2024-10-31T15:18:37Z",
+        "content": "Former President Donald Trump's net worth has dropped more than $1 billion Wednesday, as shares in Trump Media &amp; Technology Group plummeted 20% ending a day's long rally for the company's stock a\u2026 [+180 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "North Carolina 2024 Trump-Harris Polls: No Clear Leader In 3 New Polls",
+        "description": "Polls show Trump and Harris are in a virtual tie for North Carolina\u2019s 16 electoral college votes.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/10/31/north-carolina-2024-trump-harris-polls-trump-leads-by-2-points-in-new-survey/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67199405f7064b77b7f00646/0x0.jpg?format=jpg&crop=3736,2101,x0,y49,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-10-31T16:39:44Z",
+        "content": "Vice President Kamala Harris is vying to become only the second Democratic presidential candidate to win North Carolina in more than 40 years, as most polls show her and former President Donald Trump\u2026 [+4739 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Forbes"
         },
@@ -5614,6 +5809,19 @@
         "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67286cdb2940f746faa7702b/0x0.jpg?format=jpg&crop=4000,2249,x0,y77,safe&height=900&width=1600&fit=bounds",
         "publishedAt": "2024-11-04T06:46:06Z",
         "content": "NBC aired a message from former President Donald Trump during Sundays broadcast of a NASCAR race and an NFL game, after FCC Commissioner Brendan Carr criticized Vice President Kamala Harris appearanc\u2026 [+3682 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Sara Dorn, Forbes Staff, \n Sara Dorn, Forbes Staff\n https://www.forbes.com/sites/saradorn/",
+        "title": "Pennsylvania 2024 Trump-Harris Polls: Race Is Tied In 2 New Polls Of Key Battleground",
+        "description": "Pennsylvania has voted for 10 of the last 12 White House winners.",
+        "url": "https://www.forbes.com/sites/saradorn/2024/11/04/pennsylvania-2024-trump-harris-polls-race-is-tied-in-2-new-polls-of-key-battleground/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671690ba6a1a4fd1a8e09b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2024-11-04T16:47:55Z",
+        "content": "The race in the crucial battleground of Pennsylvania is closer than any other swing state contest headed into Election Day, according to polling averages that show a neck-and-neck race between former\u2026 [+6433 chars]"
     },
     {
         "source": {
