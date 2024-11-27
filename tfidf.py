@@ -2,6 +2,7 @@ import pandas as pd
 import re
 import json
 import math
+import argparse
 from collections import Counter
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
@@ -10,69 +11,69 @@ def clean_text(text):
     text = re.sub(r'[^a-zA-Z\s]', ' ', text)
     text = text.lower()
     words = text.split()
-    
-    # Extend stop words to include 's'
-    custom_stop_words = ENGLISH_STOP_WORDS.union({'s', 't'})  
-    stop_words = [word for word in words if word not in custom_stop_words]
-    return ' '.join(stop_words)
 
-# Function to read and preprocess the data
-def load_and_preprocess_data(input_file):
+    custom_stop_words = ENGLISH_STOP_WORDS.union({'s', 't'}) # s and t left from when we clean apostrophes
+    filtered_words = [word for word in words if word not in custom_stop_words]
+    return ' '.join(filtered_words)
+
+# Function to read file and combine title and description columns into a single text column
+def combine_title_description(input_file):
     df = pd.read_csv(input_file)
     df['title'] = df['title'].apply(clean_text)
     df['description'] = df['description'].apply(clean_text)
     df['text'] = df['title'] + " " + df['description']
     return df
 
-# Function to compute term frequency
-def compute_tf(document):
-    words = document.split()
-    word_counts = Counter(words)
-    total_words = len(words)
+# Function to compute TF
+def compute_tf(category_articles):
+    all_words = ' '.join(category_articles).split()
+    total_words = len(all_words)
+    word_counts = Counter(all_words)
     tf = {word: count / total_words for word, count in word_counts.items()}
     return tf
 
-# Function to compute inverse document frequency
-def compute_idf(documents):
-    total_docs = len(documents)
+# Function to compute IDF
+def compute_idf(all_articles):
+    N = len(all_articles)
     idf = {}
-    all_words = set(word for doc in documents for word in doc.split())
+    all_words = set(word for doc in all_articles for word in doc.split())
     for word in all_words:
-        containing_docs = sum(1 for doc in documents if word in doc.split())
-        idf[word] = math.log(total_docs / (1 + containing_docs)) 
+        DF = sum(1 for doc in all_articles if word in doc.split())
+        idf[word] = math.log(N / (1 + DF))
     return idf
 
 # Function to calculate TF-IDF for a document
 def compute_tfidf(tf, idf):
     return {word: tf[word] * idf[word] for word in tf.keys()}
 
-# Function to calculate top words for each category
+# Function to get TF-IDF (TF over each category, IDF over all articles) and return the top 10
 def get_top_words_by_category(df):
     categories = df['coding'].unique()
     top_words = {}
 
+    # idf over all articles
+    all_articles = df['text'].tolist()
+    idf = compute_idf(all_articles)
+
     for category in categories:
-        category_docs = df[df['coding'] == category]['text'].tolist()
-        idf = compute_idf(category_docs)
+        category_articles = df[df['coding'] == category]['text'].tolist()
+        tf = compute_tf(category_articles) # tf for category articles
 
-        tfidf_scores = Counter()
-        for doc in category_docs:
-            tf = compute_tf(doc)
-            tfidf = compute_tfidf(tf, idf)
-            tfidf_scores.update(tfidf)
+        tfidf = compute_tfidf(tf, idf)
+        top_ten = Counter(tfidf).most_common(10)
 
-        top_words[category] = tfidf_scores.most_common(10)
+        top_words[category] = top_ten
 
     return top_words
 
 # Function to save top words to a JSON file
 def save_top_words_to_json(top_words, output_file):
-    formatted_top_words = {
+    top_words = {
         category: {word: score for word, score in words_scores}
         for category, words_scores in top_words.items()
     }
     with open(output_file, 'w') as f:
-        json.dump(formatted_top_words, f, indent=4)
+        json.dump(top_words, f, indent=4)
 
 # Function to print top words for each category
 def print_top_words(top_words):
@@ -84,23 +85,19 @@ def print_top_words(top_words):
 
 # Main function
 def main(input_file, output_file):
-    df = load_and_preprocess_data(input_file)
+    df = combine_title_description(input_file)
     top_words = get_top_words_by_category(df)
 
     save_top_words_to_json(top_words, output_file)
     print_top_words(top_words)
 
 if __name__ == "__main__":
-    import argparse
-
     parser = argparse.ArgumentParser(description="Extract top words by category from a CSV file using manual TF-IDF calculations (excluding stop words)")
     parser.add_argument('input_file', type=str, help="Path to the input CSV file")
     parser.add_argument('output_file', type=str, help="Path to the output JSON file")
 
     args = parser.parse_args()
     main(args.input_file, args.output_file)
-
-
 
 
 # python tfidf.py annotated_trump_articles.csv topics_tfidf.json
