@@ -12,7 +12,7 @@ def clean_text(text):
     text = text.lower()
     words = text.split()
 
-    custom_stop_words = ENGLISH_STOP_WORDS.union({'s', 't'}) # s and t left from when we clean apostrophes
+    custom_stop_words = ENGLISH_STOP_WORDS.union({'s', 't', 'u'}) # s and t left from when we clean apostrophes
     filtered_words = [word for word in words if word not in custom_stop_words]
     return ' '.join(filtered_words)
 
@@ -26,11 +26,25 @@ def combine_title_description(input_file):
 
 # Function to compute TF
 def compute_tf(category_articles):
-    all_words = ' '.join(category_articles).split()
-    total_words = len(all_words)
-    word_counts = Counter(all_words)
-    tf = {word: count / total_words for word, count in word_counts.items()}
-    return tf
+    tf_per_doc = []
+    
+    for doc in category_articles:
+        words = doc.split()
+        total_words = len(words)
+        word_counts = Counter(words)
+        tf = {word: count / total_words for word, count in word_counts.items()}
+        tf_per_doc.append(tf)
+    
+    # Aggregate TF across all documents in the category
+    aggregated_tf = {}
+    for tf in tf_per_doc:
+        for word, value in tf.items():
+            aggregated_tf[word] = aggregated_tf.get(word, 0) + value
+    
+    # Average TF across documents
+    num_docs = len(category_articles)
+    averaged_tf = {word: value / num_docs for word, value in aggregated_tf.items()}
+    return averaged_tf
 
 # Function to compute IDF
 def compute_idf(all_articles):
